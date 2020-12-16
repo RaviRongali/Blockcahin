@@ -1,0 +1,35 @@
+TO START THE SEED:
+$ python seed.py 127.0.0.1 7001 
+(local_ip=$hostname -I)
+or
+$ python seed.py 7001
+where default ip=127.0.0.1
+
+
+TO START THE PEER:
+$ python peer.py 127.0.0.1 8001 
+local_ip=$hostname -I
+or
+$ python peer.py 8001
+where default ip=127.0.0.1
+
+---------------------------------------------------
+
+Output:
+
+For server:
+each file of format:   outputserver_ip:port.txt
+---new connect peer
+   dead node report message
+
+For peer:
+each file of format:   outputpeer_ip:port.txt
+---peerlist from all connected server
+   gossip messages
+   dead node request message
+
+
+----------------------------------------------------
+Breif Description:
+Used the multithreading concept to implement the P2P Network.
+Note: more description of each function is inside the code.

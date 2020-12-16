@@ -1,0 +1,12 @@
+Received the connection request from: 127.0.0.1:8000
+Received the connection request from: 127.0.0.1:6000
+Received the connection request from: 127.0.0.1:6001
+Received the connection request from: 127.0.0.1:8000
+Received the connection request from: 127.0.0.1:8001
+Received the connection request from: 127.0.0.1:8002
+Received the connection request from: 127.0.0.1:8004
+Dead node message recieved: Dead Node:127.0.0.1_8000:2020-09-09 21_27_18.498241:127.0.0.1_7001
+Dead node message recieved: Dead Node:127.0.0.1_8000:2020-09-09 21_27_20.633549:127.0.0.1_7001
+Dead node message recieved: Dead Node:127.0.0.1_8000:2020-09-09 21_27_22.841643:127.0.0.1_7001
+Dead node message recieved: Dead Node:127.0.0.1_8001:2020-09-09 21_30_20.757017:127.0.0.1_7001
+Dead node message recieved: Dead Node:127.0.0.1_8001:2020-09-09 21_30_22.895095:127.0.0.1_7001

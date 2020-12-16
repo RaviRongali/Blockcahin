@@ -1,0 +1,23 @@
+Received the connection request from: 127.0.0.1:8000
+Received the connection request from: 127.0.0.1:8001
+Received the connection request from: 127.0.0.1:8002
+Received the connection request from: 127.0.0.1:8000
+Received the connection request from: 127.0.0.1:8001
+Received the connection request from: 127.0.0.1:8002
+Received the connection request from: 127.0.0.1:8000
+Received the connection request from: 127.0.0.1:8001
+Received the connection request from: 127.0.0.1:8002
+Received the connection request from: 127.0.0.1:8003
+Dead node message recieved: Dead Node:127.0.0.1_8001:2020-12-11 17_03_37.028416:127.0.0.1_8002
+Dead node message recieved: Dead Node:127.0.0.1_8001:2020-12-11 17_03_40.189588:127.0.0.1_8003
+Dead node message recieved: Dead Node:127.0.0.1_8001:2020-12-11 17_03_43.431249:127.0.0.1_8000
+Received the connection request from: 127.0.0.1:8004
+Received the connection request from: 127.0.0.1:8000
+Received the connection request from: 127.0.0.1:8001
+Received the connection request from: 127.0.0.1:8002
+Received the connection request from: 127.0.0.1:8003
+Received the connection request from: 127.0.0.1:8004
+Dead node message recieved: Dead Node:127.0.0.1_8002:2020-12-11 17_13_34.289908:127.0.0.1_8001
+Dead node message recieved: Dead Node:127.0.0.1_8002:2020-12-11 17_13_34.801102:127.0.0.1_8003
+Dead node message recieved: Dead Node:127.0.0.1_8002:2020-12-11 17_13_40.874769:127.0.0.1_8004
+Dead node message recieved: Dead Node:127.0.0.1_8002:2020-12-11 17_13_43.921409:127.0.0.1_8000

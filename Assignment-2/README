@@ -1,0 +1,53 @@
+
+*** How to run **** 
+1) seed can run using the below command
+>>> python3 seed.py <port-number>
+2) peer can run using any of the below commands
+>>> python3 peer.py <port-number>
+>>> python3 peer.py <inter-arrival-time> <port-number>
+>>> python3 peer.py <ip> <port-number>
+3) running adversary using below commands 
+>>> python3 adversary.py <port-number>
+>>> python3 adversary.py <inter-arrival-time> <%node flooded> <port-number>
+>>> python3 adversary.py <inter-arrival-time> <%node flooded> <ip> <port-number>
+%node flooded will take the values from 1,2,3 
+
+Submitted Directory contains the following files
+1) peer.py
+2) seed.py
+3) config.txt
+4) adversary.py
+5) Blockdiagram.py (used to generate the Blocktree.pdf)
+6) Blocktree.pdf
+7) README
+8) Data folder
+   "Data" folder contains the following files
+    1) Folders of names like "x_y" where x is inter-arrival time and y is %of nodes flooded
+        --- files which generated after running 10 minutes in each folder are of two types 
+            1) json file showing database 
+            2) log files 
+    2) Graph.py is to generate the 6 plots using the above folders Data
+    ----Graph Generation Process
+        1. Plotted the graph from the network having 6 honest nodes and one adversary with 33% hash power
+    3) Six different Plots  
+
+
+A New Node does the following tasks
+1) connect to peer servers
+2) requests latest blockchain from one of its peer connections
+3) Start mining and receives the other blocks and put it in a blockchain
+
+
+
+***  Assumptions *** 
+1. All nodes are in general honest and send their longest chain in their local blockchain 
+. New Node will always request one of its connected peers to send the longest chain in his local blockchain
+
+
+*****  Description about finding longest chain  ****
+we started traversing the chain from highest index(which is equal to height of that block)
+and then finding parent of that block using previous hash stored in the current block.
+Then we do this upto genesis block. All the traversed blocks belong to longest chain
+
+*** Block diagram ****
+using graphiz package made the block diagram saved as pdf  blocktree.pdf

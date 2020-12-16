@@ -1,0 +1,2480 @@
+2020-12-08 22:30:49 peer list obtained from seeds: [['127.0.0.1', '8004'], ['127.0.0.1', '8002'], ['127.0.0.1', '8001'], ['127.0.0.1', '8003']]
+2020-12-08 22:30:49 Requesting Initial blocks from ('127.0.0.1', 8004)
+2020-12-08 22:30:49 Received reply for longchain request from ('127.0.0.1', 8004)
+2020-12-08 22:30:49 Requesting ('127.0.0.1', 8004) for last block with hash 0x2fd0 
+2020-12-08 22:30:49 Received the block for request from ('127.0.0.1', 8004)
+2020-12-08 22:30:49 Requesting ('127.0.0.1', 8004) for  block with hash 0x9e1c 
+2020-12-08 22:30:50 Received the block for request from ('127.0.0.1', 8004)
+2020-12-08 22:30:50 Received the chain from ('127.0.0.1', 8004) and started processing the pending queue
+2020-12-08 22:30:50 Started mining for new block with waiting time 33.842515737162046
+2020-12-08 22:30:55 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:30:55 Broadcasting a block with hash 0x387f to all the peers
+2020-12-08 22:30:55 validated the received block with hash 0x387f and broadcasting
+2020-12-08 22:30:55 Stopped mining as received a new block from others
+2020-12-08 22:30:55 Started mining for new block with waiting time 31.548034730268284
+2020-12-08 22:30:55 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:30:55 Stopped mining as received a new block from others
+2020-12-08 22:30:55 Started mining for new block with waiting time 19.202224296674764
+2020-12-08 22:30:55 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:30:55 Stopped mining as received a new block from others
+2020-12-08 22:30:55 Started mining for new block with waiting time 0.6262898504540829
+2020-12-08 22:30:56 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:30:56 Stopped mining as received a new block from others
+2020-12-08 22:30:56 Started mining for new block with waiting time 17.336346551246624
+2020-12-08 22:30:56 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:30:56 Stopped mining as received a new block from others
+2020-12-08 22:30:56 Started mining for new block with waiting time 19.313024045422218
+2020-12-08 22:31:01 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:31:01 Stopped mining as received a new block from others
+2020-12-08 22:31:01 Started mining for new block with waiting time 17.55479484725157
+2020-12-08 22:31:01 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:31:01 Stopped mining as received a new block from others
+2020-12-08 22:31:01 Started mining for new block with waiting time 24.254267209337886
+2020-12-08 22:31:01 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:31:01 Broadcasting a block with hash 0x0fec to all the peers
+2020-12-08 22:31:01 validated the received block with hash 0x0fec and broadcasting
+2020-12-08 22:31:01 Stopped mining as received a new block from others
+2020-12-08 22:31:01 Started mining for new block with waiting time 2.170746574111397
+2020-12-08 22:31:01 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:31:01 Stopped mining as received a new block from others
+2020-12-08 22:31:01 Started mining for new block with waiting time 16.780884918843785
+2020-12-08 22:31:01 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:31:01 Stopped mining as received a new block from others
+2020-12-08 22:31:01 Started mining for new block with waiting time 214.29794877773307
+2020-12-08 22:31:03 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:31:03 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:31:03 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:31:03 Stopped mining as received a new block from others
+2020-12-08 22:31:03 Started mining for new block with waiting time 2.539902556433113
+2020-12-08 22:31:03 Broadcasting a block with hash 0xd799 to all the peers
+2020-12-08 22:31:03 validated the received block with hash 0xd799 and broadcasting
+2020-12-08 22:31:03 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:31:03 Stopped mining as received a new block from others
+2020-12-08 22:31:03 Started mining for new block with waiting time 53.64950603561723
+2020-12-08 22:31:03 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:31:04 Stopped mining as received a new block from others
+2020-12-08 22:31:04 Started mining for new block with waiting time 10.88139005309749
+2020-12-08 22:31:08 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:31:08 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:31:08 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:31:08 Stopped mining as received a new block from others
+2020-12-08 22:31:08 Started mining for new block with waiting time 14.61111828593764
+2020-12-08 22:31:08 Stopped mining as received a new block from others
+2020-12-08 22:31:08 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:31:08 Started mining for new block with waiting time 9.17735137944221
+2020-12-08 22:31:08 Stopped mining as received a new block from others
+2020-12-08 22:31:08 Started mining for new block with waiting time 0.03707519053723508
+2020-12-08 22:31:08 Mining completed and broadcasting mined block with hash 0x4d7a
+2020-12-08 22:31:08 Broadcasting a block with hash 0x4d7a to all the peers
+2020-12-08 22:31:09 Started mining for new block with waiting time 6.22364855777633
+2020-12-08 22:31:09 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:31:09 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:31:09 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:31:09 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:31:09 Stopped mining as received a new block from others
+2020-12-08 22:31:09 Broadcasting a block with hash 0xced1 to all the peers
+2020-12-08 22:31:09 validated the received block with hash 0xced1 and broadcasting
+2020-12-08 22:31:09 Started mining for new block with waiting time 11.526056355822002
+2020-12-08 22:31:09 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:31:09 Stopped mining as received a new block from others
+2020-12-08 22:31:09 Started mining for new block with waiting time 104.97113393273581
+2020-12-08 22:31:09 Stopped mining as received a new block from others
+2020-12-08 22:31:09 Started mining for new block with waiting time 58.72368550645151
+2020-12-08 22:31:09 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:31:09 Stopped mining as received a new block from others
+2020-12-08 22:31:09 Started mining for new block with waiting time 3.2471807064593072
+2020-12-08 22:31:12 Mining completed and broadcasting mined block with hash 0x3bb1
+2020-12-08 22:31:13 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:31:13 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:31:13 Broadcasting a block with hash 0x3bb1 to all the peers
+2020-12-08 22:31:13 Started mining for new block with waiting time 27.464401182860062
+2020-12-08 22:31:13 Stopped mining as received a new block from others
+2020-12-08 22:31:13 Started mining for new block with waiting time 31.195706487003935
+2020-12-08 22:31:13 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:31:13 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:31:13 Stopped mining as received a new block from others
+2020-12-08 22:31:13 Started mining for new block with waiting time 108.57895278921933
+2020-12-08 22:31:13 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:31:13 Stopped mining as received a new block from others
+2020-12-08 22:31:13 Started mining for new block with waiting time 4.272164623333348
+2020-12-08 22:31:14 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:31:14 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:31:14 Stopped mining as received a new block from others
+2020-12-08 22:31:14 Started mining for new block with waiting time 26.33625354740816
+2020-12-08 22:31:14 Broadcasting a block with hash 0xfb8c to all the peers
+2020-12-08 22:31:14 validated the received block with hash 0xfb8c and broadcasting
+2020-12-08 22:31:15 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:31:15 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:31:15 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:31:15 Stopped mining as received a new block from others
+2020-12-08 22:31:15 Started mining for new block with waiting time 1.8998509003797703
+2020-12-08 22:31:15 Stopped mining as received a new block from others
+2020-12-08 22:31:15 Started mining for new block with waiting time 46.549701128634624
+2020-12-08 22:31:15 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:31:15 Stopped mining as received a new block from others
+2020-12-08 22:31:15 Started mining for new block with waiting time 8.375739985895061
+2020-12-08 22:31:15 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:31:15 Stopped mining as received a new block from others
+2020-12-08 22:31:15 Started mining for new block with waiting time 59.673372089855235
+2020-12-08 22:31:15 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:31:15 Stopped mining as received a new block from others
+2020-12-08 22:31:15 Started mining for new block with waiting time 33.05252918736652
+2020-12-08 22:31:15 Broadcasting a block with hash 0x530e to all the peers
+2020-12-08 22:31:15 validated the received block with hash 0x530e and broadcasting
+2020-12-08 22:31:15 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:31:15 Stopped mining as received a new block from others
+2020-12-08 22:31:15 Started mining for new block with waiting time 1.1622933901608983
+2020-12-08 22:31:15 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:31:15 Stopped mining as received a new block from others
+2020-12-08 22:31:15 Started mining for new block with waiting time 12.875969673130662
+2020-12-08 22:31:17 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:31:17 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:31:17 Stopped mining as received a new block from others
+2020-12-08 22:31:17 Started mining for new block with waiting time 4.018215328666607
+2020-12-08 22:31:17 Stopped mining as received a new block from others
+2020-12-08 22:31:17 Started mining for new block with waiting time 3.729298045992868
+2020-12-08 22:31:17 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:31:17 Stopped mining as received a new block from others
+2020-12-08 22:31:17 Started mining for new block with waiting time 57.179616401973384
+2020-12-08 22:31:17 Broadcasting a block with hash 0xf435 to all the peers
+2020-12-08 22:31:17 validated the received block with hash 0xf435 and broadcasting
+2020-12-08 22:31:17 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:31:17 Stopped mining as received a new block from others
+2020-12-08 22:31:17 Started mining for new block with waiting time 5.35908417506455
+2020-12-08 22:31:18 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:31:18 Stopped mining as received a new block from others
+2020-12-08 22:31:18 Started mining for new block with waiting time 49.8419313483066
+2020-12-08 22:31:18 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:31:18 Broadcasting a block with hash 0x540c to all the peers
+2020-12-08 22:31:18 validated the received block with hash 0x540c and broadcasting
+2020-12-08 22:31:18 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:31:18 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:31:18 Stopped mining as received a new block from others
+2020-12-08 22:31:18 Started mining for new block with waiting time 12.495220752772386
+2020-12-08 22:31:18 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:31:18 Stopped mining as received a new block from others
+2020-12-08 22:31:18 Started mining for new block with waiting time 140.2782156284516
+2020-12-08 22:31:18 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:31:18 Stopped mining as received a new block from others
+2020-12-08 22:31:18 Started mining for new block with waiting time 20.966640462527554
+2020-12-08 22:31:21 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:31:21 Stopped mining as received a new block from others
+2020-12-08 22:31:21 Started mining for new block with waiting time 3.5749359970948507
+2020-12-08 22:31:21 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:31:22 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:31:22 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:31:22 Broadcasting a block with hash 0xc1b8 to all the peers
+2020-12-08 22:31:22 validated the received block with hash 0xc1b8 and broadcasting
+2020-12-08 22:31:22 Stopped mining as received a new block from others
+2020-12-08 22:31:22 Started mining for new block with waiting time 9.270812818043499
+2020-12-08 22:31:22 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:31:22 Stopped mining as received a new block from others
+2020-12-08 22:31:22 Started mining for new block with waiting time 44.95403294018925
+2020-12-08 22:31:25 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:31:25 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:31:25 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:31:25 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:31:25 Stopped mining as received a new block from others
+2020-12-08 22:31:25 Started mining for new block with waiting time 3.2514487264776806
+2020-12-08 22:31:25 Broadcasting a block with hash 0x1d53 to all the peers
+2020-12-08 22:31:25 validated the received block with hash 0x1d53 and broadcasting
+2020-12-08 22:31:25 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:31:25 Stopped mining as received a new block from others
+2020-12-08 22:31:25 Started mining for new block with waiting time 5.1450313433555435
+2020-12-08 22:31:26 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:31:26 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:31:26 Broadcasting a block with hash 0x36cd to all the peers
+2020-12-08 22:31:26 validated the received block with hash 0x36cd and broadcasting
+2020-12-08 22:31:26 Stopped mining as received a new block from others
+2020-12-08 22:31:26 Started mining for new block with waiting time 2.9702478501052934
+2020-12-08 22:31:26 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:31:26 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:31:26 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:31:26 Stopped mining as received a new block from others
+2020-12-08 22:31:26 Started mining for new block with waiting time 68.11860624689855
+2020-12-08 22:31:26 Stopped mining as received a new block from others
+2020-12-08 22:31:26 Started mining for new block with waiting time 46.2166424496937
+2020-12-08 22:31:37 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:31:38 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:31:38 Stopped mining as received a new block from others
+2020-12-08 22:31:38 Started mining for new block with waiting time 24.233528946453887
+2020-12-08 22:31:38 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:31:38 Stopped mining as received a new block from others
+2020-12-08 22:31:38 Started mining for new block with waiting time 14.518711294421614
+2020-12-08 22:31:38 Broadcasting a block with hash 0x5696 to all the peers
+2020-12-08 22:31:38 validated the received block with hash 0x5696 and broadcasting
+2020-12-08 22:31:38 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:31:38 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:31:38 Stopped mining as received a new block from others
+2020-12-08 22:31:38 Started mining for new block with waiting time 73.12061413414413
+2020-12-08 22:31:45 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:31:45 Stopped mining as received a new block from others
+2020-12-08 22:31:45 Started mining for new block with waiting time 49.688145276589815
+2020-12-08 22:31:45 Broadcasting a block with hash 0x9b57 to all the peers
+2020-12-08 22:31:45 validated the received block with hash 0x9b57 and broadcasting
+2020-12-08 22:31:45 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:31:45 Stopped mining as received a new block from others
+2020-12-08 22:31:45 Started mining for new block with waiting time 8.768090963360079
+2020-12-08 22:31:45 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:31:45 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:31:45 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:31:45 Stopped mining as received a new block from others
+2020-12-08 22:31:45 Started mining for new block with waiting time 28.17056489568962
+2020-12-08 22:31:47 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:31:47 Stopped mining as received a new block from others
+2020-12-08 22:31:47 Started mining for new block with waiting time 1.284601313102791
+2020-12-08 22:31:47 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:31:47 Broadcasting a block with hash 0xcfbd to all the peers
+2020-12-08 22:31:47 validated the received block with hash 0xcfbd and broadcasting
+2020-12-08 22:31:47 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:31:47 Stopped mining as received a new block from others
+2020-12-08 22:31:47 Started mining for new block with waiting time 17.861461936047483
+2020-12-08 22:31:47 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:31:47 Stopped mining as received a new block from others
+2020-12-08 22:31:47 Started mining for new block with waiting time 130.8616543664113
+2020-12-08 22:31:47 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:31:48 Stopped mining as received a new block from others
+2020-12-08 22:31:48 Started mining for new block with waiting time 0.06693434028899241
+2020-12-08 22:31:48 Mining completed and broadcasting mined block with hash 0x1e5f
+2020-12-08 22:31:48 Broadcasting a block with hash 0x1e5f to all the peers
+2020-12-08 22:31:48 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:31:48 Started mining for new block with waiting time 14.286853919474453
+2020-12-08 22:31:48 Stopped mining as received a new block from others
+2020-12-08 22:31:48 Started mining for new block with waiting time 31.28574003931224
+2020-12-08 22:31:48 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:31:48 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:31:48 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:31:48 Stopped mining as received a new block from others
+2020-12-08 22:31:48 Started mining for new block with waiting time 27.11596021757398
+2020-12-08 22:31:48 Stopped mining as received a new block from others
+2020-12-08 22:31:48 Started mining for new block with waiting time 0.7304874503302408
+2020-12-08 22:31:48 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:31:48 Stopped mining as received a new block from others
+2020-12-08 22:31:48 Started mining for new block with waiting time 50.17467834242404
+2020-12-08 22:31:53 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:31:53 Broadcasting a block with hash 0xecaa to all the peers
+2020-12-08 22:31:53 validated the received block with hash 0xecaa and broadcasting
+2020-12-08 22:31:53 Stopped mining as received a new block from others
+2020-12-08 22:31:53 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:31:53 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:31:53 Started mining for new block with waiting time 17.993589786870245
+2020-12-08 22:31:53 Stopped mining as received a new block from others
+2020-12-08 22:31:53 Started mining for new block with waiting time 15.726249626149741
+2020-12-08 22:31:53 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:31:53 Stopped mining as received a new block from others
+2020-12-08 22:31:53 Started mining for new block with waiting time 2.0051442527192007
+2020-12-08 22:31:53 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:31:53 Stopped mining as received a new block from others
+2020-12-08 22:31:53 Started mining for new block with waiting time 20.61039331663321
+2020-12-08 22:31:59 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:31:59 Stopped mining as received a new block from others
+2020-12-08 22:31:59 Started mining for new block with waiting time 12.221367355460826
+2020-12-08 22:31:59 Broadcasting a block with hash 0x55d3 to all the peers
+2020-12-08 22:31:59 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:31:59 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:31:59 validated the received block with hash 0x55d3 and broadcasting
+2020-12-08 22:31:59 Stopped mining as received a new block from others
+2020-12-08 22:31:59 Started mining for new block with waiting time 66.61350472534646
+2020-12-08 22:31:59 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:31:59 Stopped mining as received a new block from others
+2020-12-08 22:31:59 Started mining for new block with waiting time 19.44882784675634
+2020-12-08 22:31:59 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:31:59 Stopped mining as received a new block from others
+2020-12-08 22:31:59 Started mining for new block with waiting time 17.641051138268416
+2020-12-08 22:32:02 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:32:02 Stopped mining as received a new block from others
+2020-12-08 22:32:02 Started mining for new block with waiting time 29.191620720087474
+2020-12-08 22:32:02 Broadcasting a block with hash 0xd757 to all the peers
+2020-12-08 22:32:02 validated the received block with hash 0xd757 and broadcasting
+2020-12-08 22:32:02 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:32:02 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:32:02 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:32:02 Stopped mining as received a new block from others
+2020-12-08 22:32:02 Started mining for new block with waiting time 23.62430115526443
+2020-12-08 22:32:03 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:32:03 Stopped mining as received a new block from others
+2020-12-08 22:32:03 Started mining for new block with waiting time 59.15020146088689
+2020-12-08 22:32:03 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:32:03 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:32:03 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:32:03 Stopped mining as received a new block from others
+2020-12-08 22:32:03 Started mining for new block with waiting time 45.48777828096633
+2020-12-08 22:32:03 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:32:03 Stopped mining as received a new block from others
+2020-12-08 22:32:03 Started mining for new block with waiting time 9.677339579149356
+2020-12-08 22:32:03 Broadcasting a block with hash 0xcde5 to all the peers
+2020-12-08 22:32:03 validated the received block with hash 0xcde5 and broadcasting
+2020-12-08 22:32:03 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:32:03 Stopped mining as received a new block from others
+2020-12-08 22:32:03 Started mining for new block with waiting time 34.2194085323587
+2020-12-08 22:32:11 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:32:11 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:32:11 Stopped mining as received a new block from others
+2020-12-08 22:32:11 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:32:11 Started mining for new block with waiting time 121.36475667502003
+2020-12-08 22:32:11 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:32:11 Broadcasting a block with hash 0x08ca to all the peers
+2020-12-08 22:32:11 validated the received block with hash 0x08ca and broadcasting
+2020-12-08 22:32:11 Stopped mining as received a new block from others
+2020-12-08 22:32:11 Started mining for new block with waiting time 6.14408045884818
+2020-12-08 22:32:11 Stopped mining as received a new block from others
+2020-12-08 22:32:11 Started mining for new block with waiting time 21.926667339447004
+2020-12-08 22:32:11 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:32:11 Stopped mining as received a new block from others
+2020-12-08 22:32:11 Started mining for new block with waiting time 33.65996118995811
+2020-12-08 22:32:17 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:32:17 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:32:17 Stopped mining as received a new block from others
+2020-12-08 22:32:17 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:32:17 Broadcasting a block with hash 0xed56 to all the peers
+2020-12-08 22:32:17 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:32:17 validated the received block with hash 0xed56 and broadcasting
+2020-12-08 22:32:17 Started mining for new block with waiting time 21.002579138107976
+2020-12-08 22:32:17 Stopped mining as received a new block from others
+2020-12-08 22:32:17 Started mining for new block with waiting time 22.636899100988416
+2020-12-08 22:32:17 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:32:17 Stopped mining as received a new block from others
+2020-12-08 22:32:17 Started mining for new block with waiting time 12.248880031076776
+2020-12-08 22:32:23 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:32:23 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:32:23 Stopped mining as received a new block from others
+2020-12-08 22:32:23 Started mining for new block with waiting time 6.688214084979804
+2020-12-08 22:32:23 Broadcasting a block with hash 0x85a7 to all the peers
+2020-12-08 22:32:23 validated the received block with hash 0x85a7 and broadcasting
+2020-12-08 22:32:23 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:32:23 Stopped mining as received a new block from others
+2020-12-08 22:32:23 Started mining for new block with waiting time 34.24351194364617
+2020-12-08 22:32:23 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:32:23 Stopped mining as received a new block from others
+2020-12-08 22:32:24 Started mining for new block with waiting time 43.141971709094626
+2020-12-08 22:32:24 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:32:24 Stopped mining as received a new block from others
+2020-12-08 22:32:24 Started mining for new block with waiting time 54.54940686344382
+2020-12-08 22:32:24 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:32:24 Stopped mining as received a new block from others
+2020-12-08 22:32:24 Started mining for new block with waiting time 17.415020050254885
+2020-12-08 22:32:24 Broadcasting a block with hash 0x2004 to all the peers
+2020-12-08 22:32:24 validated the received block with hash 0x2004 and broadcasting
+2020-12-08 22:32:24 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:32:24 Stopped mining as received a new block from others
+2020-12-08 22:32:24 Started mining for new block with waiting time 14.562280493745615
+2020-12-08 22:32:24 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:32:25 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:32:25 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:32:25 Stopped mining as received a new block from others
+2020-12-08 22:32:25 Started mining for new block with waiting time 1.5407014372929009
+2020-12-08 22:32:26 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:32:26 Stopped mining as received a new block from others
+2020-12-08 22:32:26 Started mining for new block with waiting time 17.330122159743645
+2020-12-08 22:32:26 Broadcasting a block with hash 0xdbbb to all the peers
+2020-12-08 22:32:26 validated the received block with hash 0xdbbb and broadcasting
+2020-12-08 22:32:26 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:32:26 Stopped mining as received a new block from others
+2020-12-08 22:32:26 Started mining for new block with waiting time 113.18963714806931
+2020-12-08 22:32:26 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:32:26 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:32:26 Stopped mining as received a new block from others
+2020-12-08 22:32:26 Started mining for new block with waiting time 14.232252210620143
+2020-12-08 22:32:26 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:32:27 Stopped mining as received a new block from others
+2020-12-08 22:32:27 Started mining for new block with waiting time 10.748501446700494
+2020-12-08 22:32:32 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:32:32 Stopped mining as received a new block from others
+2020-12-08 22:32:32 Started mining for new block with waiting time 60.75702270377211
+2020-12-08 22:32:32 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:32:32 Broadcasting a block with hash 0x25bd to all the peers
+2020-12-08 22:32:32 validated the received block with hash 0x25bd and broadcasting
+2020-12-08 22:32:32 Stopped mining as received a new block from others
+2020-12-08 22:32:32 Started mining for new block with waiting time 0.8622987719082104
+2020-12-08 22:32:33 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:32:33 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:32:33 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:32:33 Stopped mining as received a new block from others
+2020-12-08 22:32:33 Started mining for new block with waiting time 5.268509049262695
+2020-12-08 22:32:34 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:32:34 Stopped mining as received a new block from others
+2020-12-08 22:32:34 Started mining for new block with waiting time 8.652773220091962
+2020-12-08 22:32:34 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:32:34 Stopped mining as received a new block from others
+2020-12-08 22:32:34 Started mining for new block with waiting time 18.083153297421454
+2020-12-08 22:32:34 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:32:34 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:32:34 Stopped mining as received a new block from others
+2020-12-08 22:32:34 Started mining for new block with waiting time 2.106773351677024
+2020-12-08 22:32:34 Broadcasting a block with hash 0xe4e5 to all the peers
+2020-12-08 22:32:34 validated the received block with hash 0xe4e5 and broadcasting
+2020-12-08 22:32:34 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:32:34 Stopped mining as received a new block from others
+2020-12-08 22:32:34 Started mining for new block with waiting time 120.67220171127194
+2020-12-08 22:32:40 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:32:40 Stopped mining as received a new block from others
+2020-12-08 22:32:40 Started mining for new block with waiting time 64.74386670728079
+2020-12-08 22:32:40 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:32:40 Stopped mining as received a new block from others
+2020-12-08 22:32:40 Started mining for new block with waiting time 62.41731808848015
+2020-12-08 22:32:40 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:32:40 Broadcasting a block with hash 0x8c90 to all the peers
+2020-12-08 22:32:40 validated the received block with hash 0x8c90 and broadcasting
+2020-12-08 22:32:40 Stopped mining as received a new block from others
+2020-12-08 22:32:40 Started mining for new block with waiting time 31.161988364538605
+2020-12-08 22:32:40 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:32:40 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:32:40 Stopped mining as received a new block from others
+2020-12-08 22:32:40 Started mining for new block with waiting time 21.69354673191515
+2020-12-08 22:32:43 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:32:43 Stopped mining as received a new block from others
+2020-12-08 22:32:43 Started mining for new block with waiting time 20.530825427496733
+2020-12-08 22:32:43 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:32:43 Broadcasting a block with hash 0x00c5 to all the peers
+2020-12-08 22:32:43 validated the received block with hash 0x00c5 and broadcasting
+2020-12-08 22:32:43 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:32:43 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:32:43 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:32:43 Stopped mining as received a new block from others
+2020-12-08 22:32:43 Started mining for new block with waiting time 38.892826246925374
+2020-12-08 22:32:46 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:32:46 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:32:46 Broadcasting a block with hash 0x93e3 to all the peers
+2020-12-08 22:32:46 validated the received block with hash 0x93e3 and broadcasting
+2020-12-08 22:32:46 Stopped mining as received a new block from others
+2020-12-08 22:32:46 Started mining for new block with waiting time 91.39980371687382
+2020-12-08 22:32:47 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:32:47 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:32:47 Stopped mining as received a new block from others
+2020-12-08 22:32:47 Started mining for new block with waiting time 34.14100828735302
+2020-12-08 22:32:47 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:32:47 Stopped mining as received a new block from others
+2020-12-08 22:32:47 Started mining for new block with waiting time 38.674356951273865
+2020-12-08 22:32:49 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:32:49 Broadcasting a block with hash 0xa473 to all the peers
+2020-12-08 22:32:49 validated the received block with hash 0xa473 and broadcasting
+2020-12-08 22:32:49 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:32:49 Stopped mining as received a new block from others
+2020-12-08 22:32:49 Started mining for new block with waiting time 11.097897967404004
+2020-12-08 22:32:49 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:32:49 Stopped mining as received a new block from others
+2020-12-08 22:32:49 Started mining for new block with waiting time 47.31666204595092
+2020-12-08 22:32:49 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:32:49 Stopped mining as received a new block from others
+2020-12-08 22:32:49 Started mining for new block with waiting time 25.482446728412878
+2020-12-08 22:32:49 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:32:49 Stopped mining as received a new block from others
+2020-12-08 22:32:49 Started mining for new block with waiting time 48.06737229472818
+2020-12-08 22:32:53 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:32:53 Stopped mining as received a new block from others
+2020-12-08 22:32:53 Started mining for new block with waiting time 11.40566574152313
+2020-12-08 22:32:53 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:32:53 Broadcasting a block with hash 0x7766 to all the peers
+2020-12-08 22:32:53 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:32:53 Stopped mining as received a new block from others
+2020-12-08 22:32:53 Started mining for new block with waiting time 41.410671609181385
+2020-12-08 22:32:53 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:32:53 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:32:53 Stopped mining as received a new block from others
+2020-12-08 22:32:53 Started mining for new block with waiting time 9.07741606898367
+2020-12-08 22:32:53 Stopped mining as received a new block from others
+2020-12-08 22:32:53 Started mining for new block with waiting time 155.68883300027156
+2020-12-08 22:32:53 validated the received block with hash 0x7766 and broadcasting
+2020-12-08 22:32:57 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:32:57 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:32:57 Stopped mining as received a new block from others
+2020-12-08 22:32:57 Started mining for new block with waiting time 39.69444474553
+2020-12-08 22:32:57 Broadcasting a block with hash 0x7683 to all the peers
+2020-12-08 22:32:57 validated the received block with hash 0x7683 and broadcasting
+2020-12-08 22:32:57 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:32:57 Stopped mining as received a new block from others
+2020-12-08 22:32:57 Started mining for new block with waiting time 18.49635342439545
+2020-12-08 22:32:57 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:32:57 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:32:57 Stopped mining as received a new block from others
+2020-12-08 22:32:57 Started mining for new block with waiting time 60.928996197838664
+2020-12-08 22:33:00 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:33:00 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:33:00 Stopped mining as received a new block from others
+2020-12-08 22:33:00 Started mining for new block with waiting time 3.0505951341288777
+2020-12-08 22:33:00 Stopped mining as received a new block from others
+2020-12-08 22:33:00 Started mining for new block with waiting time 37.496071035564874
+2020-12-08 22:33:00 Broadcasting a block with hash 0x9c56 to all the peers
+2020-12-08 22:33:00 validated the received block with hash 0x9c56 and broadcasting
+2020-12-08 22:33:01 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:33:01 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:33:01 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:33:01 Stopped mining as received a new block from others
+2020-12-08 22:33:01 Started mining for new block with waiting time 25.894324213189392
+2020-12-08 22:33:01 Stopped mining as received a new block from others
+2020-12-08 22:33:01 Started mining for new block with waiting time 15.952293722481821
+2020-12-08 22:33:08 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:33:08 Stopped mining as received a new block from others
+2020-12-08 22:33:08 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:33:08 Started mining for new block with waiting time 40.42477085343974
+2020-12-08 22:33:08 Stopped mining as received a new block from others
+2020-12-08 22:33:08 Started mining for new block with waiting time 9.647633657347532
+2020-12-08 22:33:08 Broadcasting a block with hash 0xc6b4 to all the peers
+2020-12-08 22:33:08 validated the received block with hash 0xc6b4 and broadcasting
+2020-12-08 22:33:08 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:33:08 Stopped mining as received a new block from others
+2020-12-08 22:33:08 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:33:08 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:33:08 Started mining for new block with waiting time 36.61962809627999
+2020-12-08 22:33:08 Stopped mining as received a new block from others
+2020-12-08 22:33:08 Started mining for new block with waiting time 16.111317430918238
+2020-12-08 22:33:14 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:33:14 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:33:14 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:33:14 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:33:14 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:33:14 Stopped mining as received a new block from others
+2020-12-08 22:33:14 Started mining for new block with waiting time 28.411453938638573
+2020-12-08 22:33:14 Stopped mining as received a new block from others
+2020-12-08 22:33:14 Started mining for new block with waiting time 24.51446534434792
+2020-12-08 22:33:14 Broadcasting a block with hash 0xdbcd to all the peers
+2020-12-08 22:33:14 validated the received block with hash 0xdbcd and broadcasting
+2020-12-08 22:33:16 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:33:16 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:33:16 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:33:16 Stopped mining as received a new block from others
+2020-12-08 22:33:16 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:33:16 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:33:16 Started mining for new block with waiting time 15.194584383728257
+2020-12-08 22:33:16 Stopped mining as received a new block from others
+2020-12-08 22:33:16 Started mining for new block with waiting time 21.00492799303123
+2020-12-08 22:33:16 Broadcasting a block with hash 0xfd5e to all the peers
+2020-12-08 22:33:16 validated the received block with hash 0xfd5e and broadcasting
+2020-12-08 22:33:17 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:33:17 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:33:17 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:33:17 Stopped mining as received a new block from others
+2020-12-08 22:33:17 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:33:17 Started mining for new block with waiting time 52.45474435127483
+2020-12-08 22:33:17 Stopped mining as received a new block from others
+2020-12-08 22:33:17 Started mining for new block with waiting time 35.55883813597074
+2020-12-08 22:33:17 Broadcasting a block with hash 0xda12 to all the peers
+2020-12-08 22:33:17 validated the received block with hash 0xda12 and broadcasting
+2020-12-08 22:33:17 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:33:17 Stopped mining as received a new block from others
+2020-12-08 22:33:17 Started mining for new block with waiting time 16.238771816245592
+2020-12-08 22:33:18 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:33:18 Stopped mining as received a new block from others
+2020-12-08 22:33:18 Started mining for new block with waiting time 1.1228247221506076
+2020-12-08 22:33:18 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:33:18 Stopped mining as received a new block from others
+2020-12-08 22:33:18 Started mining for new block with waiting time 123.43131952302043
+2020-12-08 22:33:18 Broadcasting a block with hash 0x3e7f to all the peers
+2020-12-08 22:33:18 validated the received block with hash 0x3e7f and broadcasting
+2020-12-08 22:33:18 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:33:18 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:33:18 Stopped mining as received a new block from others
+2020-12-08 22:33:18 Started mining for new block with waiting time 9.965887071922658
+2020-12-08 22:33:19 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:33:19 Stopped mining as received a new block from others
+2020-12-08 22:33:19 Started mining for new block with waiting time 37.65869503026583
+2020-12-08 22:33:22 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:33:22 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:33:22 Stopped mining as received a new block from others
+2020-12-08 22:33:23 Started mining for new block with waiting time 2.7037987618976533
+2020-12-08 22:33:23 Stopped mining as received a new block from others
+2020-12-08 22:33:23 Started mining for new block with waiting time 19.914377351430996
+2020-12-08 22:33:23 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:33:23 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:33:23 Broadcasting a block with hash 0x0de9 to all the peers
+2020-12-08 22:33:23 validated the received block with hash 0x0de9 and broadcasting
+2020-12-08 22:33:23 Stopped mining as received a new block from others
+2020-12-08 22:33:23 Started mining for new block with waiting time 25.99093096223504
+2020-12-08 22:33:23 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:33:23 Stopped mining as received a new block from others
+2020-12-08 22:33:23 Started mining for new block with waiting time 5.1917182756660525
+2020-12-08 22:33:24 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:33:24 Stopped mining as received a new block from others
+2020-12-08 22:33:24 Started mining for new block with waiting time 35.86003734818764
+2020-12-08 22:33:24 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:33:24 Stopped mining as received a new block from others
+2020-12-08 22:33:24 Started mining for new block with waiting time 17.95383067468145
+2020-12-08 22:33:24 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:33:24 Broadcasting a block with hash 0x9420 to all the peers
+2020-12-08 22:33:24 validated the received block with hash 0x9420 and broadcasting
+2020-12-08 22:33:24 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:33:24 Stopped mining as received a new block from others
+2020-12-08 22:33:24 Started mining for new block with waiting time 103.81153337802257
+2020-12-08 22:33:24 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:33:24 Stopped mining as received a new block from others
+2020-12-08 22:33:24 Started mining for new block with waiting time 2.863600965126585
+2020-12-08 22:33:25 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:33:25 Stopped mining as received a new block from others
+2020-12-08 22:33:25 Started mining for new block with waiting time 31.775368973392332
+2020-12-08 22:33:25 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:33:25 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:33:25 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:33:25 Stopped mining as received a new block from others
+2020-12-08 22:33:25 Started mining for new block with waiting time 17.46688260012954
+2020-12-08 22:33:25 Stopped mining as received a new block from others
+2020-12-08 22:33:25 Started mining for new block with waiting time 20.36552249162989
+2020-12-08 22:33:25 Broadcasting a block with hash 0x18de to all the peers
+2020-12-08 22:33:25 validated the received block with hash 0x18de and broadcasting
+2020-12-08 22:33:26 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:33:26 Stopped mining as received a new block from others
+2020-12-08 22:33:26 Started mining for new block with waiting time 19.16976860604718
+2020-12-08 22:33:30 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:33:30 Stopped mining as received a new block from others
+2020-12-08 22:33:30 Started mining for new block with waiting time 26.32873789042326
+2020-12-08 22:33:31 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:33:31 Broadcasting a block with hash 0x6cea to all the peers
+2020-12-08 22:33:31 validated the received block with hash 0x6cea and broadcasting
+2020-12-08 22:33:31 Stopped mining as received a new block from others
+2020-12-08 22:33:31 Started mining for new block with waiting time 14.338879895382282
+2020-12-08 22:33:31 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:33:31 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:33:31 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:33:31 Stopped mining as received a new block from others
+2020-12-08 22:33:31 Started mining for new block with waiting time 24.580920206962965
+2020-12-08 22:33:31 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:33:31 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:33:31 Stopped mining as received a new block from others
+2020-12-08 22:33:31 Started mining for new block with waiting time 8.021512923459774
+2020-12-08 22:33:31 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:33:31 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:33:31 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:33:31 Stopped mining as received a new block from others
+2020-12-08 22:33:31 Started mining for new block with waiting time 37.80333349282696
+2020-12-08 22:33:32 Broadcasting a block with hash 0xcde1 to all the peers
+2020-12-08 22:33:32 validated the received block with hash 0xcde1 and broadcasting
+2020-12-08 22:33:43 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:33:43 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:33:43 Stopped mining as received a new block from others
+2020-12-08 22:33:43 Started mining for new block with waiting time 28.915906549119246
+2020-12-08 22:33:43 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:33:43 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:33:43 Stopped mining as received a new block from others
+2020-12-08 22:33:43 Started mining for new block with waiting time 0.05651846007863986
+2020-12-08 22:33:43 Broadcasting a block with hash 0xa485 to all the peers
+2020-12-08 22:33:43 validated the received block with hash 0xa485 and broadcasting
+2020-12-08 22:33:43 Stopped mining as received a new block from others
+2020-12-08 22:33:43 Started mining for new block with waiting time 26.190037405608294
+2020-12-08 22:33:43 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:33:43 Stopped mining as received a new block from others
+2020-12-08 22:33:43 Started mining for new block with waiting time 33.227663634072194
+2020-12-08 22:33:43 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:33:43 Stopped mining as received a new block from others
+2020-12-08 22:33:43 Started mining for new block with waiting time 72.79617539785599
+2020-12-08 22:33:43 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:33:43 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:33:43 Stopped mining as received a new block from others
+2020-12-08 22:33:43 Started mining for new block with waiting time 16.394448745686795
+2020-12-08 22:33:44 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:33:44 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:33:44 Stopped mining as received a new block from others
+2020-12-08 22:33:44 Started mining for new block with waiting time 62.0192694983057
+2020-12-08 22:33:44 Broadcasting a block with hash 0xd5ba to all the peers
+2020-12-08 22:33:44 validated the received block with hash 0xd5ba and broadcasting
+2020-12-08 22:33:45 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:33:45 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:33:45 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:33:45 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:33:45 Stopped mining as received a new block from others
+2020-12-08 22:33:45 Started mining for new block with waiting time 18.45480124244326
+2020-12-08 22:33:45 Stopped mining as received a new block from others
+2020-12-08 22:33:45 Started mining for new block with waiting time 0.26462120365650027
+2020-12-08 22:33:46 Broadcasting a block with hash 0x346a to all the peers
+2020-12-08 22:33:46 validated the received block with hash 0x346a and broadcasting
+2020-12-08 22:33:46 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:33:46 Stopped mining as received a new block from others
+2020-12-08 22:33:46 Started mining for new block with waiting time 3.7682369042012716
+2020-12-08 22:33:48 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:33:48 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:33:48 Stopped mining as received a new block from others
+2020-12-08 22:33:48 Started mining for new block with waiting time 19.869264341327842
+2020-12-08 22:33:48 Stopped mining as received a new block from others
+2020-12-08 22:33:48 Started mining for new block with waiting time 18.48475656045856
+2020-12-08 22:33:48 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:33:48 Broadcasting a block with hash 0xf09f to all the peers
+2020-12-08 22:33:48 validated the received block with hash 0xf09f and broadcasting
+2020-12-08 22:33:48 Stopped mining as received a new block from others
+2020-12-08 22:33:48 Started mining for new block with waiting time 17.74389062285358
+2020-12-08 22:33:48 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:33:49 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:33:49 Stopped mining as received a new block from others
+2020-12-08 22:33:49 Started mining for new block with waiting time 15.640429834808193
+2020-12-08 22:33:50 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:33:50 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:33:50 Stopped mining as received a new block from others
+2020-12-08 22:33:50 Started mining for new block with waiting time 85.69530978830622
+2020-12-08 22:33:50 Stopped mining as received a new block from others
+2020-12-08 22:33:50 Started mining for new block with waiting time 36.134324536734695
+2020-12-08 22:33:50 Broadcasting a block with hash 0x2fc3 to all the peers
+2020-12-08 22:33:50 validated the received block with hash 0x2fc3 and broadcasting
+2020-12-08 22:33:50 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:33:50 Stopped mining as received a new block from others
+2020-12-08 22:33:50 Started mining for new block with waiting time 16.24058961817052
+2020-12-08 22:33:50 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:33:50 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:33:50 Stopped mining as received a new block from others
+2020-12-08 22:33:50 Started mining for new block with waiting time 103.8908872856272
+2020-12-08 22:33:50 Stopped mining as received a new block from others
+2020-12-08 22:33:50 Started mining for new block with waiting time 58.22096233503997
+2020-12-08 22:33:50 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:33:50 Stopped mining as received a new block from others
+2020-12-08 22:33:50 Started mining for new block with waiting time 41.80257136255083
+2020-12-08 22:33:50 Broadcasting a block with hash 0xd276 to all the peers
+2020-12-08 22:33:50 validated the received block with hash 0xd276 and broadcasting
+2020-12-08 22:33:50 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:33:50 Stopped mining as received a new block from others
+2020-12-08 22:33:50 Started mining for new block with waiting time 27.902761724755948
+2020-12-08 22:33:50 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:33:50 Stopped mining as received a new block from others
+2020-12-08 22:33:50 Started mining for new block with waiting time 91.50468851284222
+2020-12-08 22:33:51 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:33:51 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:33:51 Stopped mining as received a new block from others
+2020-12-08 22:33:51 Started mining for new block with waiting time 12.890584240363685
+2020-12-08 22:33:51 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:33:51 Stopped mining as received a new block from others
+2020-12-08 22:33:51 Started mining for new block with waiting time 54.990843674795656
+2020-12-08 22:33:51 Broadcasting a block with hash 0x4a73 to all the peers
+2020-12-08 22:33:51 validated the received block with hash 0x4a73 and broadcasting
+2020-12-08 22:33:51 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:33:51 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:33:51 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:33:51 Stopped mining as received a new block from others
+2020-12-08 22:33:51 Started mining for new block with waiting time 11.062671777309218
+2020-12-08 22:33:52 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:33:52 Stopped mining as received a new block from others
+2020-12-08 22:33:52 Started mining for new block with waiting time 15.055991236838825
+2020-12-08 22:33:53 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:33:53 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:33:53 Stopped mining as received a new block from others
+2020-12-08 22:33:53 Started mining for new block with waiting time 81.78953008235814
+2020-12-08 22:33:53 Broadcasting a block with hash 0xdaaf to all the peers
+2020-12-08 22:33:53 validated the received block with hash 0xdaaf and broadcasting
+2020-12-08 22:33:53 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:33:53 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:33:53 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:33:53 Stopped mining as received a new block from others
+2020-12-08 22:33:53 Started mining for new block with waiting time 2.4880102943025273
+2020-12-08 22:33:56 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:33:56 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:33:56 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:33:56 Stopped mining as received a new block from others
+2020-12-08 22:33:56 Started mining for new block with waiting time 1.0077545249073225
+2020-12-08 22:33:56 Stopped mining as received a new block from others
+2020-12-08 22:33:56 Started mining for new block with waiting time 30.58031272015062
+2020-12-08 22:33:56 Broadcasting a block with hash 0xe6bb to all the peers
+2020-12-08 22:33:56 validated the received block with hash 0xe6bb and broadcasting
+2020-12-08 22:33:56 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:33:56 Stopped mining as received a new block from others
+2020-12-08 22:33:56 Started mining for new block with waiting time 15.875655085071255
+2020-12-08 22:33:56 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:33:56 Stopped mining as received a new block from others
+2020-12-08 22:33:56 Started mining for new block with waiting time 4.272468970420735
+2020-12-08 22:33:56 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:33:56 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:33:56 Broadcasting a block with hash 0x2c9f to all the peers
+2020-12-08 22:33:56 validated the received block with hash 0x2c9f and broadcasting
+2020-12-08 22:33:56 Stopped mining as received a new block from others
+2020-12-08 22:33:56 Started mining for new block with waiting time 56.79605104897647
+2020-12-08 22:33:56 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:33:56 Stopped mining as received a new block from others
+2020-12-08 22:33:56 Started mining for new block with waiting time 64.74971361399474
+2020-12-08 22:33:56 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:33:57 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:33:57 Stopped mining as received a new block from others
+2020-12-08 22:33:57 Started mining for new block with waiting time 21.277367836860673
+2020-12-08 22:33:58 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:33:58 Stopped mining as received a new block from others
+2020-12-08 22:33:58 Started mining for new block with waiting time 1.888099115134032
+2020-12-08 22:33:58 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:33:58 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:33:58 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:33:58 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:33:58 Stopped mining as received a new block from others
+2020-12-08 22:33:58 Started mining for new block with waiting time 49.28865693129059
+2020-12-08 22:33:58 Stopped mining as received a new block from others
+2020-12-08 22:33:58 Started mining for new block with waiting time 14.015362384089611
+2020-12-08 22:33:58 Broadcasting a block with hash 0xb72f to all the peers
+2020-12-08 22:33:58 validated the received block with hash 0xb72f and broadcasting
+2020-12-08 22:34:05 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:34:06 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:34:06 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:34:06 Stopped mining as received a new block from others
+2020-12-08 22:34:06 Started mining for new block with waiting time 1.6536496560509482
+2020-12-08 22:34:06 Stopped mining as received a new block from others
+2020-12-08 22:34:06 Started mining for new block with waiting time 83.01595523282201
+2020-12-08 22:34:06 Broadcasting a block with hash 0xf748 to all the peers
+2020-12-08 22:34:06 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:34:06 validated the received block with hash 0xf748 and broadcasting
+2020-12-08 22:34:06 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:34:06 Stopped mining as received a new block from others
+2020-12-08 22:34:06 Started mining for new block with waiting time 9.27903057845029
+2020-12-08 22:34:07 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:34:07 Stopped mining as received a new block from others
+2020-12-08 22:34:07 Started mining for new block with waiting time 14.086102320173238
+2020-12-08 22:34:07 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:34:07 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:34:07 Broadcasting a block with hash 0x23e7 to all the peers
+2020-12-08 22:34:07 validated the received block with hash 0x23e7 and broadcasting
+2020-12-08 22:34:07 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:34:07 Stopped mining as received a new block from others
+2020-12-08 22:34:07 Started mining for new block with waiting time 15.934199972659359
+2020-12-08 22:34:07 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:34:07 Stopped mining as received a new block from others
+2020-12-08 22:34:07 Started mining for new block with waiting time 2.232103571235454
+2020-12-08 22:34:09 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:34:09 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:34:09 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:34:09 Stopped mining as received a new block from others
+2020-12-08 22:34:09 Started mining for new block with waiting time 0.46761989971474377
+2020-12-08 22:34:09 Broadcasting a block with hash 0x412a to all the peers
+2020-12-08 22:34:09 validated the received block with hash 0x412a and broadcasting
+2020-12-08 22:34:09 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:34:09 Stopped mining as received a new block from others
+2020-12-08 22:34:09 Started mining for new block with waiting time 17.992758498891806
+2020-12-08 22:34:09 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:34:09 Stopped mining as received a new block from others
+2020-12-08 22:34:09 Started mining for new block with waiting time 99.25761844067472
+2020-12-08 22:34:10 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:34:10 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:34:10 Stopped mining as received a new block from others
+2020-12-08 22:34:10 Started mining for new block with waiting time 3.0942801165619693
+2020-12-08 22:34:10 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:34:10 Stopped mining as received a new block from others
+2020-12-08 22:34:10 Started mining for new block with waiting time 13.603635091090466
+2020-12-08 22:34:10 Broadcasting a block with hash 0xb91a to all the peers
+2020-12-08 22:34:10 validated the received block with hash 0xb91a and broadcasting
+2020-12-08 22:34:10 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:34:10 Stopped mining as received a new block from others
+2020-12-08 22:34:10 Started mining for new block with waiting time 122.18788207180141
+2020-12-08 22:34:10 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:34:10 Stopped mining as received a new block from others
+2020-12-08 22:34:10 Started mining for new block with waiting time 14.677387913829506
+2020-12-08 22:34:11 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:34:11 Stopped mining as received a new block from others
+2020-12-08 22:34:11 Started mining for new block with waiting time 26.50610870344655
+2020-12-08 22:34:11 Broadcasting a block with hash 0xcb2e to all the peers
+2020-12-08 22:34:11 validated the received block with hash 0xcb2e and broadcasting
+2020-12-08 22:34:11 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:34:11 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:34:11 Stopped mining as received a new block from others
+2020-12-08 22:34:11 Started mining for new block with waiting time 133.93059698779933
+2020-12-08 22:34:11 Broadcasting a block with hash 0x7366 to all the peers
+2020-12-08 22:34:11 validated the received block with hash 0x7366 and broadcasting
+2020-12-08 22:34:11 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:34:11 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:34:11 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:34:11 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:34:11 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:34:11 Stopped mining as received a new block from others
+2020-12-08 22:34:11 Started mining for new block with waiting time 16.227738654171382
+2020-12-08 22:34:11 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:34:11 Stopped mining as received a new block from others
+2020-12-08 22:34:11 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:34:11 Started mining for new block with waiting time 26.752980891551974
+2020-12-08 22:34:11 Stopped mining as received a new block from others
+2020-12-08 22:34:11 Started mining for new block with waiting time 2.2521276221314364
+2020-12-08 22:34:14 Mining completed and broadcasting mined block with hash 0x568b
+2020-12-08 22:34:14 Broadcasting a block with hash 0x568b to all the peers
+2020-12-08 22:34:14 Started mining for new block with waiting time 73.4849805343283
+2020-12-08 22:34:14 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:34:14 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:34:14 Stopped mining as received a new block from others
+2020-12-08 22:34:14 Started mining for new block with waiting time 6.354296639195932
+2020-12-08 22:34:14 Stopped mining as received a new block from others
+2020-12-08 22:34:14 Started mining for new block with waiting time 35.625396160720655
+2020-12-08 22:34:14 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:34:14 Stopped mining as received a new block from others
+2020-12-08 22:34:14 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:34:14 Started mining for new block with waiting time 22.45406715939636
+2020-12-08 22:34:14 Stopped mining as received a new block from others
+2020-12-08 22:34:14 Started mining for new block with waiting time 9.093161119610066
+2020-12-08 22:34:14 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:34:15 Stopped mining as received a new block from others
+2020-12-08 22:34:15 Started mining for new block with waiting time 30.21133110197823
+2020-12-08 22:34:15 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:34:15 Stopped mining as received a new block from others
+2020-12-08 22:34:15 Started mining for new block with waiting time 26.344401439062793
+2020-12-08 22:34:15 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:34:15 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:34:15 Stopped mining as received a new block from others
+2020-12-08 22:34:15 Started mining for new block with waiting time 52.439369127101244
+2020-12-08 22:34:15 Broadcasting a block with hash 0x17d7 to all the peers
+2020-12-08 22:34:15 validated the received block with hash 0x17d7 and broadcasting
+2020-12-08 22:34:16 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:34:16 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:34:16 Stopped mining as received a new block from others
+2020-12-08 22:34:16 Started mining for new block with waiting time 12.296686945395436
+2020-12-08 22:34:28 Mining completed and broadcasting mined block with hash 0x3505
+2020-12-08 22:34:29 Broadcasting a block with hash 0x3505 to all the peers
+2020-12-08 22:34:29 Started mining for new block with waiting time 22.355528437561805
+2020-12-08 22:34:29 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:34:29 Stopped mining as received a new block from others
+2020-12-08 22:34:29 Started mining for new block with waiting time 38.10474772779411
+2020-12-08 22:34:29 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:34:29 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:34:29 Stopped mining as received a new block from others
+2020-12-08 22:34:29 Started mining for new block with waiting time 7.423542885138769
+2020-12-08 22:34:29 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:34:29 Stopped mining as received a new block from others
+2020-12-08 22:34:29 Started mining for new block with waiting time 31.956773213380814
+2020-12-08 22:34:29 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:34:29 Stopped mining as received a new block from others
+2020-12-08 22:34:29 Started mining for new block with waiting time 21.415474367442386
+2020-12-08 22:34:33 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:34:33 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:34:33 Stopped mining as received a new block from others
+2020-12-08 22:34:33 Started mining for new block with waiting time 27.27072438061117
+2020-12-08 22:34:33 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:34:33 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:34:33 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:34:33 Broadcasting a block with hash 0xa7e0 to all the peers
+2020-12-08 22:34:33 validated the received block with hash 0xa7e0 and broadcasting
+2020-12-08 22:34:33 Stopped mining as received a new block from others
+2020-12-08 22:34:33 Started mining for new block with waiting time 29.649858655976423
+2020-12-08 22:34:37 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:34:37 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:34:37 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:34:37 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:34:37 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:34:37 Stopped mining as received a new block from others
+2020-12-08 22:34:37 Started mining for new block with waiting time 2.3327487543001557
+2020-12-08 22:34:37 Stopped mining as received a new block from others
+2020-12-08 22:34:37 Started mining for new block with waiting time 16.078925617172263
+2020-12-08 22:34:37 Broadcasting a block with hash 0xc646 to all the peers
+2020-12-08 22:34:37 validated the received block with hash 0xc646 and broadcasting
+2020-12-08 22:34:39 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:34:39 Stopped mining as received a new block from others
+2020-12-08 22:34:39 Started mining for new block with waiting time 34.670851308494704
+2020-12-08 22:34:39 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:34:39 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:34:39 Stopped mining as received a new block from others
+2020-12-08 22:34:39 Started mining for new block with waiting time 2.9284628740391767
+2020-12-08 22:34:39 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:34:40 Broadcasting a block with hash 0x1597 to all the peers
+2020-12-08 22:34:40 validated the received block with hash 0x1597 and broadcasting
+2020-12-08 22:34:40 Stopped mining as received a new block from others
+2020-12-08 22:34:40 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:34:40 Started mining for new block with waiting time 7.104229345109052
+2020-12-08 22:34:40 Stopped mining as received a new block from others
+2020-12-08 22:34:40 Started mining for new block with waiting time 17.307580926779043
+2020-12-08 22:34:48 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:34:48 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:34:48 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:34:48 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:34:48 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:34:48 Stopped mining as received a new block from others
+2020-12-08 22:34:48 Started mining for new block with waiting time 30.81318981899748
+2020-12-08 22:34:48 Stopped mining as received a new block from others
+2020-12-08 22:34:48 Started mining for new block with waiting time 95.55704707102666
+2020-12-08 22:34:48 Broadcasting a block with hash 0x2072 to all the peers
+2020-12-08 22:34:48 validated the received block with hash 0x2072 and broadcasting
+2020-12-08 22:34:50 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:34:50 Stopped mining as received a new block from others
+2020-12-08 22:34:50 Started mining for new block with waiting time 7.806468867147985
+2020-12-08 22:34:51 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:34:51 Broadcasting a block with hash 0xe302 to all the peers
+2020-12-08 22:34:51 validated the received block with hash 0xe302 and broadcasting
+2020-12-08 22:34:51 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:34:51 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:34:51 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:34:51 Stopped mining as received a new block from others
+2020-12-08 22:34:51 Started mining for new block with waiting time 47.46629829571798
+2020-12-08 22:34:51 Stopped mining as received a new block from others
+2020-12-08 22:34:51 Started mining for new block with waiting time 116.69279135586235
+2020-12-08 22:34:54 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:34:54 Stopped mining as received a new block from others
+2020-12-08 22:34:54 Started mining for new block with waiting time 22.40782572030891
+2020-12-08 22:34:54 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:34:54 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:34:54 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:34:54 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:34:54 Stopped mining as received a new block from others
+2020-12-08 22:34:54 Started mining for new block with waiting time 35.92894318867438
+2020-12-08 22:34:54 Stopped mining as received a new block from others
+2020-12-08 22:34:54 Started mining for new block with waiting time 56.2555495305106
+2020-12-08 22:34:54 Broadcasting a block with hash 0x3f8e to all the peers
+2020-12-08 22:34:54 validated the received block with hash 0x3f8e and broadcasting
+2020-12-08 22:34:58 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:34:58 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:34:58 Stopped mining as received a new block from others
+2020-12-08 22:34:58 Started mining for new block with waiting time 30.513392241151642
+2020-12-08 22:34:58 Broadcasting a block with hash 0xa683 to all the peers
+2020-12-08 22:34:58 validated the received block with hash 0xa683 and broadcasting
+2020-12-08 22:34:58 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:34:58 Stopped mining as received a new block from others
+2020-12-08 22:34:58 Started mining for new block with waiting time 9.865363818655448
+2020-12-08 22:34:58 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:34:58 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:34:58 Stopped mining as received a new block from others
+2020-12-08 22:34:58 Started mining for new block with waiting time 140.19501138944045
+2020-12-08 22:35:02 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:35:02 Stopped mining as received a new block from others
+2020-12-08 22:35:02 Started mining for new block with waiting time 10.38866011218393
+2020-12-08 22:35:02 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:35:02 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:35:03 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:35:03 Broadcasting a block with hash 0x1716 to all the peers
+2020-12-08 22:35:03 validated the received block with hash 0x1716 and broadcasting
+2020-12-08 22:35:03 Stopped mining as received a new block from others
+2020-12-08 22:35:03 Started mining for new block with waiting time 1.3295303979948947
+2020-12-08 22:35:03 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:35:03 Stopped mining as received a new block from others
+2020-12-08 22:35:03 Started mining for new block with waiting time 20.303542198375762
+2020-12-08 22:35:05 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:35:05 Broadcasting a block with hash 0x4a74 to all the peers
+2020-12-08 22:35:05 validated the received block with hash 0x4a74 and broadcasting
+2020-12-08 22:35:05 Stopped mining as received a new block from others
+2020-12-08 22:35:05 Started mining for new block with waiting time 60.87473458394495
+2020-12-08 22:35:05 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:35:05 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:35:05 Stopped mining as received a new block from others
+2020-12-08 22:35:05 Started mining for new block with waiting time 44.053204775973285
+2020-12-08 22:35:05 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:35:05 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:35:05 Stopped mining as received a new block from others
+2020-12-08 22:35:05 Started mining for new block with waiting time 13.462594948847334
+2020-12-08 22:35:09 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:35:09 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:35:09 Stopped mining as received a new block from others
+2020-12-08 22:35:09 Started mining for new block with waiting time 38.7176492213699
+2020-12-08 22:35:09 Stopped mining as received a new block from others
+2020-12-08 22:35:09 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:35:09 Started mining for new block with waiting time 72.37566092465299
+2020-12-08 22:35:09 Stopped mining as received a new block from others
+2020-12-08 22:35:09 Started mining for new block with waiting time 1.4570913772556937
+2020-12-08 22:35:09 Broadcasting a block with hash 0x491b to all the peers
+2020-12-08 22:35:09 validated the received block with hash 0x491b and broadcasting
+2020-12-08 22:35:10 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:35:10 Stopped mining as received a new block from others
+2020-12-08 22:35:10 Started mining for new block with waiting time 54.12079809702862
+2020-12-08 22:35:10 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:35:10 Stopped mining as received a new block from others
+2020-12-08 22:35:10 Started mining for new block with waiting time 35.65829372334611
+2020-12-08 22:35:14 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:35:14 Stopped mining as received a new block from others
+2020-12-08 22:35:14 Started mining for new block with waiting time 22.979733170442376
+2020-12-08 22:35:14 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:35:14 Stopped mining as received a new block from others
+2020-12-08 22:35:14 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:35:15 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:35:15 Started mining for new block with waiting time 56.79636030942003
+2020-12-08 22:35:15 Stopped mining as received a new block from others
+2020-12-08 22:35:15 Started mining for new block with waiting time 108.56808110642221
+2020-12-08 22:35:15 Broadcasting a block with hash 0x181f to all the peers
+2020-12-08 22:35:15 validated the received block with hash 0x181f and broadcasting
+2020-12-08 22:35:15 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:35:15 Stopped mining as received a new block from others
+2020-12-08 22:35:15 Started mining for new block with waiting time 46.29719934689967
+2020-12-08 22:35:20 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:35:20 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:35:20 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:35:20 Stopped mining as received a new block from others
+2020-12-08 22:35:20 Started mining for new block with waiting time 9.436104486069977
+2020-12-08 22:35:20 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:35:20 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:35:20 Broadcasting a block with hash 0xf4ec to all the peers
+2020-12-08 22:35:20 validated the received block with hash 0xf4ec and broadcasting
+2020-12-08 22:35:20 Stopped mining as received a new block from others
+2020-12-08 22:35:20 Started mining for new block with waiting time 33.65898375658779
+2020-12-08 22:35:21 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:35:21 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:35:22 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:35:22 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:35:22 Broadcasting a block with hash 0xf278 to all the peers
+2020-12-08 22:35:22 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:35:22 validated the received block with hash 0xf278 and broadcasting
+2020-12-08 22:35:22 Stopped mining as received a new block from others
+2020-12-08 22:35:22 Started mining for new block with waiting time 42.851901077140624
+2020-12-08 22:35:22 Stopped mining as received a new block from others
+2020-12-08 22:35:22 Started mining for new block with waiting time 30.227962688125
+2020-12-08 22:35:24 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:35:24 Stopped mining as received a new block from others
+2020-12-08 22:35:24 Started mining for new block with waiting time 35.81003295183432
+2020-12-08 22:35:24 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:35:25 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:35:25 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:35:25 Broadcasting a block with hash 0xb305 to all the peers
+2020-12-08 22:35:25 validated the received block with hash 0xb305 and broadcasting
+2020-12-08 22:35:25 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:35:25 Stopped mining as received a new block from others
+2020-12-08 22:35:25 Started mining for new block with waiting time 11.694001978701689
+2020-12-08 22:35:25 Stopped mining as received a new block from others
+2020-12-08 22:35:25 Started mining for new block with waiting time 26.803710382100082
+2020-12-08 22:35:28 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:35:29 Stopped mining as received a new block from others
+2020-12-08 22:35:29 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:35:29 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:35:29 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:35:29 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:35:29 Started mining for new block with waiting time 61.73883137037139
+2020-12-08 22:35:29 Stopped mining as received a new block from others
+2020-12-08 22:35:29 Started mining for new block with waiting time 30.290142119075956
+2020-12-08 22:35:29 Broadcasting a block with hash 0x2da1 to all the peers
+2020-12-08 22:35:29 validated the received block with hash 0x2da1 and broadcasting
+2020-12-08 22:35:31 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:35:31 Stopped mining as received a new block from others
+2020-12-08 22:35:31 Started mining for new block with waiting time 186.82514638642752
+2020-12-08 22:35:31 Broadcasting a block with hash 0x02df to all the peers
+2020-12-08 22:35:31 validated the received block with hash 0x02df and broadcasting
+2020-12-08 22:35:31 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:35:31 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:35:31 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:35:31 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:35:32 Stopped mining as received a new block from others
+2020-12-08 22:35:32 Started mining for new block with waiting time 30.32702317951713
+2020-12-08 22:35:33 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:35:33 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:35:33 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:35:33 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:35:33 Stopped mining as received a new block from others
+2020-12-08 22:35:33 Started mining for new block with waiting time 14.660315425878057
+2020-12-08 22:35:33 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:35:33 Stopped mining as received a new block from others
+2020-12-08 22:35:33 Started mining for new block with waiting time 23.45490563680919
+2020-12-08 22:35:33 Broadcasting a block with hash 0x28b7 to all the peers
+2020-12-08 22:35:33 validated the received block with hash 0x28b7 and broadcasting
+2020-12-08 22:35:40 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:35:40 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:35:40 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:35:40 Stopped mining as received a new block from others
+2020-12-08 22:35:40 Started mining for new block with waiting time 16.693411000319518
+2020-12-08 22:35:40 Broadcasting a block with hash 0x6b6d to all the peers
+2020-12-08 22:35:40 validated the received block with hash 0x6b6d and broadcasting
+2020-12-08 22:35:40 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:35:40 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:35:40 Stopped mining as received a new block from others
+2020-12-08 22:35:40 Started mining for new block with waiting time 9.437451335771259
+2020-12-08 22:35:40 Stopped mining as received a new block from others
+2020-12-08 22:35:40 Started mining for new block with waiting time 92.34577012201987
+2020-12-08 22:35:44 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:35:44 Stopped mining as received a new block from others
+2020-12-08 22:35:44 Started mining for new block with waiting time 1.3174526201040833
+2020-12-08 22:35:45 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:35:45 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:35:45 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:35:45 Broadcasting a block with hash 0xacd8 to all the peers
+2020-12-08 22:35:45 validated the received block with hash 0xacd8 and broadcasting
+2020-12-08 22:35:45 Stopped mining as received a new block from others
+2020-12-08 22:35:45 Started mining for new block with waiting time 0.2917474626781778
+2020-12-08 22:35:45 Stopped mining as received a new block from others
+2020-12-08 22:35:45 Started mining for new block with waiting time 17.592392302974012
+2020-12-08 22:35:45 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:35:45 Stopped mining as received a new block from others
+2020-12-08 22:35:45 Started mining for new block with waiting time 5.4303307488765205
+2020-12-08 22:35:50 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:35:50 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:35:50 Stopped mining as received a new block from others
+2020-12-08 22:35:50 Started mining for new block with waiting time 0.4254003249830336
+2020-12-08 22:35:50 Stopped mining as received a new block from others
+2020-12-08 22:35:50 Started mining for new block with waiting time 39.439955174266615
+2020-12-08 22:35:50 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:35:50 Stopped mining as received a new block from others
+2020-12-08 22:35:50 Started mining for new block with waiting time 3.6702494131910033
+2020-12-08 22:35:50 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:35:50 Stopped mining as received a new block from others
+2020-12-08 22:35:50 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:35:50 Started mining for new block with waiting time 40.709814136434346
+2020-12-08 22:35:50 Stopped mining as received a new block from others
+2020-12-08 22:35:50 Started mining for new block with waiting time 61.681430992760916
+2020-12-08 22:35:50 Broadcasting a block with hash 0xa938 to all the peers
+2020-12-08 22:35:50 validated the received block with hash 0xa938 and broadcasting
+2020-12-08 22:35:51 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:35:51 Stopped mining as received a new block from others
+2020-12-08 22:35:51 Started mining for new block with waiting time 6.514590336128397
+2020-12-08 22:35:51 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:35:51 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:35:51 Stopped mining as received a new block from others
+2020-12-08 22:35:51 Started mining for new block with waiting time 50.89587252676635
+2020-12-08 22:35:51 Broadcasting a block with hash 0xf576 to all the peers
+2020-12-08 22:35:51 validated the received block with hash 0xf576 and broadcasting
+2020-12-08 22:35:51 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:35:51 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:35:51 Stopped mining as received a new block from others
+2020-12-08 22:35:51 Started mining for new block with waiting time 52.84701229726612
+2020-12-08 22:35:52 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:35:52 Stopped mining as received a new block from others
+2020-12-08 22:35:52 Started mining for new block with waiting time 26.0330217414785
+2020-12-08 22:35:52 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:35:52 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:35:52 Stopped mining as received a new block from others
+2020-12-08 22:35:52 Started mining for new block with waiting time 60.320604710080985
+2020-12-08 22:35:52 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:35:52 Broadcasting a block with hash 0x45c7 to all the peers
+2020-12-08 22:35:52 validated the received block with hash 0x45c7 and broadcasting
+2020-12-08 22:35:52 Stopped mining as received a new block from others
+2020-12-08 22:35:52 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:35:52 Started mining for new block with waiting time 9.29412467917021
+2020-12-08 22:35:52 Stopped mining as received a new block from others
+2020-12-08 22:35:52 Started mining for new block with waiting time 2.889181017918301
+2020-12-08 22:35:52 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:35:52 Stopped mining as received a new block from others
+2020-12-08 22:35:52 Started mining for new block with waiting time 2.615386420097116
+2020-12-08 22:35:53 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:35:53 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:35:53 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:35:53 Stopped mining as received a new block from others
+2020-12-08 22:35:53 Started mining for new block with waiting time 14.910342087758773
+2020-12-08 22:35:53 Stopped mining as received a new block from others
+2020-12-08 22:35:53 Started mining for new block with waiting time 12.206049010401353
+2020-12-08 22:35:53 Broadcasting a block with hash 0x3323 to all the peers
+2020-12-08 22:35:53 validated the received block with hash 0x3323 and broadcasting
+2020-12-08 22:35:53 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:35:53 Stopped mining as received a new block from others
+2020-12-08 22:35:53 Started mining for new block with waiting time 2.2675917151991007
+2020-12-08 22:35:55 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:35:55 Stopped mining as received a new block from others
+2020-12-08 22:35:55 Started mining for new block with waiting time 54.42117472489805
+2020-12-08 22:35:55 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:35:55 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:35:55 Broadcasting a block with hash 0x5279 to all the peers
+2020-12-08 22:35:55 validated the received block with hash 0x5279 and broadcasting
+2020-12-08 22:35:55 Stopped mining as received a new block from others
+2020-12-08 22:35:55 Started mining for new block with waiting time 44.162092906046105
+2020-12-08 22:35:55 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:35:55 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:35:55 Stopped mining as received a new block from others
+2020-12-08 22:35:55 Started mining for new block with waiting time 11.961591295598549
+2020-12-08 22:35:55 Stopped mining as received a new block from others
+2020-12-08 22:35:55 Started mining for new block with waiting time 45.61675261552186
+2020-12-08 22:36:00 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:36:00 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:36:00 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:36:00 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:36:00 Stopped mining as received a new block from others
+2020-12-08 22:36:00 Started mining for new block with waiting time 69.73913216163858
+2020-12-08 22:36:00 Stopped mining as received a new block from others
+2020-12-08 22:36:00 Started mining for new block with waiting time 23.44913015403859
+2020-12-08 22:36:01 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:36:01 Broadcasting a block with hash 0xe290 to all the peers
+2020-12-08 22:36:01 validated the received block with hash 0xe290 and broadcasting
+2020-12-08 22:36:01 Stopped mining as received a new block from others
+2020-12-08 22:36:01 Started mining for new block with waiting time 46.58976847233877
+2020-12-08 22:36:24 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:36:24 Stopped mining as received a new block from others
+2020-12-08 22:36:24 Started mining for new block with waiting time 22.559575548017495
+2020-12-08 22:36:24 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:36:24 Stopped mining as received a new block from others
+2020-12-08 22:36:24 Started mining for new block with waiting time 2.997978266530016
+2020-12-08 22:36:24 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:36:24 Broadcasting a block with hash 0xb5cb to all the peers
+2020-12-08 22:36:24 validated the received block with hash 0xb5cb and broadcasting
+2020-12-08 22:36:24 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:36:24 Stopped mining as received a new block from others
+2020-12-08 22:36:24 Started mining for new block with waiting time 43.25290504159613
+2020-12-08 22:36:24 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:36:24 Stopped mining as received a new block from others
+2020-12-08 22:36:24 Started mining for new block with waiting time 38.02290227986496
+2020-12-08 22:36:31 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:36:31 Stopped mining as received a new block from others
+2020-12-08 22:36:31 Started mining for new block with waiting time 28.103952501109912
+2020-12-08 22:36:31 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:36:31 Stopped mining as received a new block from others
+2020-12-08 22:36:31 Started mining for new block with waiting time 55.90819664417221
+2020-12-08 22:36:31 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:36:31 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:36:31 Stopped mining as received a new block from others
+2020-12-08 22:36:31 Started mining for new block with waiting time 117.9958616585594
+2020-12-08 22:36:31 Broadcasting a block with hash 0x70d2 to all the peers
+2020-12-08 22:36:31 validated the received block with hash 0x70d2 and broadcasting
+2020-12-08 22:36:31 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:36:31 Stopped mining as received a new block from others
+2020-12-08 22:36:31 Started mining for new block with waiting time 6.7325585197376405
+2020-12-08 22:36:35 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:36:35 Stopped mining as received a new block from others
+2020-12-08 22:36:35 Started mining for new block with waiting time 53.680557147826995
+2020-12-08 22:36:35 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:36:35 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:36:35 Stopped mining as received a new block from others
+2020-12-08 22:36:35 Started mining for new block with waiting time 5.860384249232412
+2020-12-08 22:36:35 Broadcasting a block with hash 0x1be8 to all the peers
+2020-12-08 22:36:35 validated the received block with hash 0x1be8 and broadcasting
+2020-12-08 22:36:35 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:36:35 Stopped mining as received a new block from others
+2020-12-08 22:36:35 Started mining for new block with waiting time 67.17438052025491
+2020-12-08 22:36:35 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:36:35 Stopped mining as received a new block from others
+2020-12-08 22:36:35 Started mining for new block with waiting time 2.39378496291056
+2020-12-08 22:36:38 Mining completed and broadcasting mined block with hash 0xdc0a
+2020-12-08 22:36:38 Broadcasting a block with hash 0xdc0a to all the peers
+2020-12-08 22:36:38 Started mining for new block with waiting time 4.127953778217071
+2020-12-08 22:36:38 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:36:38 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:36:38 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:36:38 Stopped mining as received a new block from others
+2020-12-08 22:36:38 Started mining for new block with waiting time 5.2372722659221775
+2020-12-08 22:36:38 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:36:38 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:36:38 Stopped mining as received a new block from others
+2020-12-08 22:36:38 Started mining for new block with waiting time 13.523881500475147
+2020-12-08 22:36:52 Mining completed and broadcasting mined block with hash 0xc850
+2020-12-08 22:36:52 Broadcasting a block with hash 0xc850 to all the peers
+2020-12-08 22:36:52 Started mining for new block with waiting time 9.553388500526014
+2020-12-08 22:36:52 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:36:52 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:36:52 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:36:52 Stopped mining as received a new block from others
+2020-12-08 22:36:52 Started mining for new block with waiting time 38.80449045911786
+2020-12-08 22:36:52 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:36:52 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:36:52 Stopped mining as received a new block from others
+2020-12-08 22:36:52 Started mining for new block with waiting time 12.26012064030683
+2020-12-08 22:37:04 Mining completed and broadcasting mined block with hash 0x69c1
+2020-12-08 22:37:04 Broadcasting a block with hash 0x69c1 to all the peers
+2020-12-08 22:37:04 Started mining for new block with waiting time 12.040224432602667
+2020-12-08 22:37:04 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:37:04 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:37:04 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:37:04 Stopped mining as received a new block from others
+2020-12-08 22:37:04 Started mining for new block with waiting time 14.076088178568254
+2020-12-08 22:37:05 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:37:05 Stopped mining as received a new block from others
+2020-12-08 22:37:05 Started mining for new block with waiting time 43.17666017363176
+2020-12-08 22:37:05 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:37:05 Stopped mining as received a new block from others
+2020-12-08 22:37:05 Started mining for new block with waiting time 8.314026591806789
+2020-12-08 22:37:06 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:37:06 Stopped mining as received a new block from others
+2020-12-08 22:37:06 Started mining for new block with waiting time 155.34012469100858
+2020-12-08 22:37:06 Broadcasting a block with hash 0x0822 to all the peers
+2020-12-08 22:37:06 validated the received block with hash 0x0822 and broadcasting
+2020-12-08 22:37:06 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:37:06 Stopped mining as received a new block from others
+2020-12-08 22:37:06 Started mining for new block with waiting time 13.33266710229761
+2020-12-08 22:37:06 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:37:06 Stopped mining as received a new block from others
+2020-12-08 22:37:06 Started mining for new block with waiting time 4.1134068050553205
+2020-12-08 22:37:07 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:37:07 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:37:07 Stopped mining as received a new block from others
+2020-12-08 22:37:07 Started mining for new block with waiting time 35.95441350306669
+2020-12-08 22:37:09 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:37:09 Stopped mining as received a new block from others
+2020-12-08 22:37:09 Started mining for new block with waiting time 3.9013171709006818
+2020-12-08 22:37:09 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:37:09 Broadcasting a block with hash 0x4692 to all the peers
+2020-12-08 22:37:09 validated the received block with hash 0x4692 and broadcasting
+2020-12-08 22:37:09 Stopped mining as received a new block from others
+2020-12-08 22:37:09 Started mining for new block with waiting time 14.191649742172617
+2020-12-08 22:37:09 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:37:09 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:37:09 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:37:09 Stopped mining as received a new block from others
+2020-12-08 22:37:09 Started mining for new block with waiting time 2.368002242017861
+2020-12-08 22:37:09 Stopped mining as received a new block from others
+2020-12-08 22:37:09 Started mining for new block with waiting time 12.189164434623137
+2020-12-08 22:37:12 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:37:12 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:37:12 Stopped mining as received a new block from others
+2020-12-08 22:37:12 Started mining for new block with waiting time 16.844629334073275
+2020-12-08 22:37:12 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:37:12 Stopped mining as received a new block from others
+2020-12-08 22:37:12 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:37:12 Broadcasting a block with hash 0x8a64 to all the peers
+2020-12-08 22:37:12 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:37:12 Started mining for new block with waiting time 49.31377140089597
+2020-12-08 22:37:12 Stopped mining as received a new block from others
+2020-12-08 22:37:12 Started mining for new block with waiting time 13.21724827871687
+2020-12-08 22:37:12 validated the received block with hash 0x8a64 and broadcasting
+2020-12-08 22:37:13 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:37:13 Stopped mining as received a new block from others
+2020-12-08 22:37:13 Started mining for new block with waiting time 16.654853352965507
+2020-12-08 22:37:13 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:37:13 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:37:13 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:37:13 Broadcasting a block with hash 0x2fdb to all the peers
+2020-12-08 22:37:13 validated the received block with hash 0x2fdb and broadcasting
+2020-12-08 22:37:13 Stopped mining as received a new block from others
+2020-12-08 22:37:13 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:37:13 Started mining for new block with waiting time 9.214050053415361
+2020-12-08 22:37:13 Stopped mining as received a new block from others
+2020-12-08 22:37:13 Started mining for new block with waiting time 0.05038077851126368
+2020-12-08 22:37:13 Mining completed and broadcasting mined block with hash 0x4288
+2020-12-08 22:37:13 Broadcasting a block with hash 0x4288 to all the peers
+2020-12-08 22:37:13 Started mining for new block with waiting time 19.272490140086
+2020-12-08 22:37:13 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:37:14 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:37:14 Stopped mining as received a new block from others
+2020-12-08 22:37:14 Started mining for new block with waiting time 8.10354192784984
+2020-12-08 22:37:14 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:37:14 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:37:14 Stopped mining as received a new block from others
+2020-12-08 22:37:14 Started mining for new block with waiting time 19.46223873321777
+2020-12-08 22:37:14 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:37:14 Stopped mining as received a new block from others
+2020-12-08 22:37:14 Started mining for new block with waiting time 19.283659285525086
+2020-12-08 22:37:21 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:37:21 Stopped mining as received a new block from others
+2020-12-08 22:37:21 Started mining for new block with waiting time 28.173339588200196
+2020-12-08 22:37:21 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:37:21 Broadcasting a block with hash 0x33df to all the peers
+2020-12-08 22:37:21 validated the received block with hash 0x33df and broadcasting
+2020-12-08 22:37:21 Stopped mining as received a new block from others
+2020-12-08 22:37:21 Started mining for new block with waiting time 0.13492502305521065
+2020-12-08 22:37:22 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:37:22 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:37:22 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:37:22 Stopped mining as received a new block from others
+2020-12-08 22:37:22 Started mining for new block with waiting time 17.89125550172108
+2020-12-08 22:37:28 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:37:28 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:37:28 Stopped mining as received a new block from others
+2020-12-08 22:37:28 Started mining for new block with waiting time 44.89476974047373
+2020-12-08 22:37:28 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:37:28 Stopped mining as received a new block from others
+2020-12-08 22:37:28 Started mining for new block with waiting time 105.09650827385923
+2020-12-08 22:37:28 Broadcasting a block with hash 0xb5b7 to all the peers
+2020-12-08 22:37:28 validated the received block with hash 0xb5b7 and broadcasting
+2020-12-08 22:37:29 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:37:29 Stopped mining as received a new block from others
+2020-12-08 22:37:29 Started mining for new block with waiting time 43.10131340367579
+2020-12-08 22:37:29 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:37:29 Stopped mining as received a new block from others
+2020-12-08 22:37:29 Started mining for new block with waiting time 94.17166593614797
+2020-12-08 22:37:31 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:37:31 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:37:31 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:37:31 Stopped mining as received a new block from others
+2020-12-08 22:37:31 Started mining for new block with waiting time 38.870008370214144
+2020-12-08 22:37:31 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:37:31 Stopped mining as received a new block from others
+2020-12-08 22:37:31 Started mining for new block with waiting time 28.381014576443157
+2020-12-08 22:37:32 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:37:32 Broadcasting a block with hash 0x74ea to all the peers
+2020-12-08 22:37:32 validated the received block with hash 0x74ea and broadcasting
+2020-12-08 22:37:32 Stopped mining as received a new block from others
+2020-12-08 22:37:32 Started mining for new block with waiting time 59.336241552877894
+2020-12-08 22:37:43 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:37:43 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:37:43 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:37:43 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:37:43 Broadcasting a block with hash 0xd5d7 to all the peers
+2020-12-08 22:37:43 validated the received block with hash 0xd5d7 and broadcasting
+2020-12-08 22:37:43 Stopped mining as received a new block from others
+2020-12-08 22:37:43 Started mining for new block with waiting time 57.360367502046
+2020-12-08 22:37:43 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:37:43 Stopped mining as received a new block from others
+2020-12-08 22:37:43 Started mining for new block with waiting time 15.956939345727816
+2020-12-08 22:37:46 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:37:46 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:37:46 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:37:46 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:37:46 Broadcasting a block with hash 0x9976 to all the peers
+2020-12-08 22:37:46 validated the received block with hash 0x9976 and broadcasting
+2020-12-08 22:37:46 Stopped mining as received a new block from others
+2020-12-08 22:37:46 Started mining for new block with waiting time 27.762666167332135
+2020-12-08 22:37:46 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:37:47 Stopped mining as received a new block from others
+2020-12-08 22:37:47 Started mining for new block with waiting time 7.144839504436194
+2020-12-08 22:37:49 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:37:49 Stopped mining as received a new block from others
+2020-12-08 22:37:49 Started mining for new block with waiting time 47.14326177956504
+2020-12-08 22:37:49 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:37:49 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:37:49 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:37:49 Broadcasting a block with hash 0xc41a to all the peers
+2020-12-08 22:37:49 validated the received block with hash 0xc41a and broadcasting
+2020-12-08 22:37:49 Stopped mining as received a new block from others
+2020-12-08 22:37:49 Started mining for new block with waiting time 13.961293067089187
+2020-12-08 22:37:49 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:37:49 Stopped mining as received a new block from others
+2020-12-08 22:37:49 Started mining for new block with waiting time 17.20342699331652
+2020-12-08 22:37:55 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:37:55 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:37:55 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:37:55 Stopped mining as received a new block from others
+2020-12-08 22:37:55 Started mining for new block with waiting time 4.726640879478753
+2020-12-08 22:37:55 Stopped mining as received a new block from others
+2020-12-08 22:37:55 Started mining for new block with waiting time 21.58886607747412
+2020-12-08 22:37:55 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:37:55 Broadcasting a block with hash 0x4e1c to all the peers
+2020-12-08 22:37:55 validated the received block with hash 0x4e1c and broadcasting
+2020-12-08 22:37:55 Stopped mining as received a new block from others
+2020-12-08 22:37:55 Started mining for new block with waiting time 23.113469773500764
+2020-12-08 22:37:55 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:37:55 Stopped mining as received a new block from others
+2020-12-08 22:37:55 Started mining for new block with waiting time 5.701924784541452
+2020-12-08 22:37:57 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:37:57 Stopped mining as received a new block from others
+2020-12-08 22:37:57 Started mining for new block with waiting time 14.14711050035485
+2020-12-08 22:37:57 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:37:57 Broadcasting a block with hash 0x73f8 to all the peers
+2020-12-08 22:37:57 validated the received block with hash 0x73f8 and broadcasting
+2020-12-08 22:37:57 Stopped mining as received a new block from others
+2020-12-08 22:37:57 Started mining for new block with waiting time 18.833845320236314
+2020-12-08 22:37:57 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:37:57 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:37:57 Stopped mining as received a new block from others
+2020-12-08 22:37:57 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:37:57 Started mining for new block with waiting time 25.75331303997584
+2020-12-08 22:37:57 Stopped mining as received a new block from others
+2020-12-08 22:37:57 Started mining for new block with waiting time 32.45095061461956
+2020-12-08 22:38:04 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:38:04 Stopped mining as received a new block from others
+2020-12-08 22:38:04 Started mining for new block with waiting time 8.188834356645247
+2020-12-08 22:38:04 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:38:04 Broadcasting a block with hash 0x999c to all the peers
+2020-12-08 22:38:04 validated the received block with hash 0x999c and broadcasting
+2020-12-08 22:38:04 Stopped mining as received a new block from others
+2020-12-08 22:38:04 Started mining for new block with waiting time 24.951259246676642
+2020-12-08 22:38:05 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:38:05 Stopped mining as received a new block from others
+2020-12-08 22:38:05 Started mining for new block with waiting time 36.59539097244862
+2020-12-08 22:38:05 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:38:05 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:38:05 Stopped mining as received a new block from others
+2020-12-08 22:38:05 Started mining for new block with waiting time 7.568936511802625
+2020-12-08 22:38:05 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:38:05 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:38:05 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:38:05 Broadcasting a block with hash 0xd6eb to all the peers
+2020-12-08 22:38:05 validated the received block with hash 0xd6eb and broadcasting
+2020-12-08 22:38:05 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:38:05 Stopped mining as received a new block from others
+2020-12-08 22:38:05 Started mining for new block with waiting time 49.56147486834665
+2020-12-08 22:38:05 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:38:05 Stopped mining as received a new block from others
+2020-12-08 22:38:05 Started mining for new block with waiting time 21.23117268144687
+2020-12-08 22:38:11 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:38:11 Stopped mining as received a new block from others
+2020-12-08 22:38:11 Started mining for new block with waiting time 64.4636411316421
+2020-12-08 22:38:11 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:38:11 Broadcasting a block with hash 0xb9e6 to all the peers
+2020-12-08 22:38:11 validated the received block with hash 0xb9e6 and broadcasting
+2020-12-08 22:38:11 Stopped mining as received a new block from others
+2020-12-08 22:38:11 Started mining for new block with waiting time 7.799987013019524
+2020-12-08 22:38:11 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:38:11 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:38:11 Stopped mining as received a new block from others
+2020-12-08 22:38:11 Started mining for new block with waiting time 36.230631121481494
+2020-12-08 22:38:11 Stopped mining as received a new block from others
+2020-12-08 22:38:11 Started mining for new block with waiting time 28.60619105258109
+2020-12-08 22:38:11 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:38:11 Stopped mining as received a new block from others
+2020-12-08 22:38:11 Started mining for new block with waiting time 19.95879996497723
+2020-12-08 22:38:19 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:38:19 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:38:19 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:38:19 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:38:19 Broadcasting a block with hash 0x4319 to all the peers
+2020-12-08 22:38:19 validated the received block with hash 0x4319 and broadcasting
+2020-12-08 22:38:19 Stopped mining as received a new block from others
+2020-12-08 22:38:19 Started mining for new block with waiting time 26.752531550269907
+2020-12-08 22:38:19 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:38:19 Stopped mining as received a new block from others
+2020-12-08 22:38:19 Started mining for new block with waiting time 0.616203002041658
+2020-12-08 22:38:20 Mining completed and broadcasting mined block with hash 0xbf3b
+2020-12-08 22:38:20 Broadcasting a block with hash 0xbf3b to all the peers
+2020-12-08 22:38:20 Started mining for new block with waiting time 10.032250306335783
+2020-12-08 22:38:20 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:38:20 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:38:20 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:38:20 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:38:20 Stopped mining as received a new block from others
+2020-12-08 22:38:21 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:38:21 Started mining for new block with waiting time 20.983534138349956
+2020-12-08 22:38:21 Stopped mining as received a new block from others
+2020-12-08 22:38:21 Started mining for new block with waiting time 6.212460785814668
+2020-12-08 22:38:23 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:38:23 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:38:23 Stopped mining as received a new block from others
+2020-12-08 22:38:23 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:38:23 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:38:23 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:38:23 Started mining for new block with waiting time 28.885402787896684
+2020-12-08 22:38:23 Stopped mining as received a new block from others
+2020-12-08 22:38:23 Started mining for new block with waiting time 6.720875892009146
+2020-12-08 22:38:23 Broadcasting a block with hash 0xb525 to all the peers
+2020-12-08 22:38:23 validated the received block with hash 0xb525 and broadcasting
+2020-12-08 22:38:30 Mining completed and broadcasting mined block with hash 0x87b2
+2020-12-08 22:38:30 Broadcasting a block with hash 0x87b2 to all the peers
+2020-12-08 22:38:30 Started mining for new block with waiting time 5.80646357547056
+2020-12-08 22:38:30 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:38:30 Stopped mining as received a new block from others
+2020-12-08 22:38:30 Started mining for new block with waiting time 140.18246429038612
+2020-12-08 22:38:31 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:38:31 Stopped mining as received a new block from others
+2020-12-08 22:38:31 Started mining for new block with waiting time 19.1288296696141
+2020-12-08 22:38:31 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:38:31 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:38:31 Stopped mining as received a new block from others
+2020-12-08 22:38:31 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:38:31 Started mining for new block with waiting time 3.8893167982923265
+2020-12-08 22:38:31 Stopped mining as received a new block from others
+2020-12-08 22:38:31 Started mining for new block with waiting time 39.127339489164655
+2020-12-08 22:38:34 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:38:34 Stopped mining as received a new block from others
+2020-12-08 22:38:34 Started mining for new block with waiting time 28.125513777815996
+2020-12-08 22:38:34 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:38:34 Stopped mining as received a new block from others
+2020-12-08 22:38:34 Started mining for new block with waiting time 55.92962182935435
+2020-12-08 22:38:34 Broadcasting a block with hash 0x269d to all the peers
+2020-12-08 22:38:34 validated the received block with hash 0x269d and broadcasting
+2020-12-08 22:38:34 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:38:34 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:38:34 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:38:34 Stopped mining as received a new block from others
+2020-12-08 22:38:34 Started mining for new block with waiting time 45.96257958542066
+2020-12-08 22:38:35 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:38:35 Broadcasting a block with hash 0x6c15 to all the peers
+2020-12-08 22:38:35 validated the received block with hash 0x6c15 and broadcasting
+2020-12-08 22:38:36 Stopped mining as received a new block from others
+2020-12-08 22:38:36 Started mining for new block with waiting time 25.546484167064058
+2020-12-08 22:38:36 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:38:36 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:38:36 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:38:36 Stopped mining as received a new block from others
+2020-12-08 22:38:36 Started mining for new block with waiting time 45.72487698750761
+2020-12-08 22:38:36 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:38:36 Stopped mining as received a new block from others
+2020-12-08 22:38:36 Started mining for new block with waiting time 0.3137869355907012
+2020-12-08 22:38:36 Mining completed and broadcasting mined block with hash 0xaf0b
+2020-12-08 22:38:36 Broadcasting a block with hash 0xaf0b to all the peers
+2020-12-08 22:38:36 Started mining for new block with waiting time 26.34476170915615
+2020-12-08 22:38:36 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:38:36 Stopped mining as received a new block from others
+2020-12-08 22:38:36 Started mining for new block with waiting time 22.200109549251536
+2020-12-08 22:38:37 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:38:37 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:38:37 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:38:37 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:38:37 Stopped mining as received a new block from others
+2020-12-08 22:38:37 Started mining for new block with waiting time 125.97970032976413
+2020-12-08 22:38:39 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:38:39 Broadcasting a block with hash 0x7a7c to all the peers
+2020-12-08 22:38:39 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:38:39 validated the received block with hash 0x7a7c and broadcasting
+2020-12-08 22:38:39 Stopped mining as received a new block from others
+2020-12-08 22:38:39 Started mining for new block with waiting time 8.803930432060245
+2020-12-08 22:38:39 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:38:39 Stopped mining as received a new block from others
+2020-12-08 22:38:39 Started mining for new block with waiting time 38.63133407376442
+2020-12-08 22:38:39 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:38:39 Stopped mining as received a new block from others
+2020-12-08 22:38:39 Started mining for new block with waiting time 10.284344642740797
+2020-12-08 22:38:39 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:38:39 Stopped mining as received a new block from others
+2020-12-08 22:38:39 Started mining for new block with waiting time 33.89551119302282
+2020-12-08 22:38:47 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:38:47 Stopped mining as received a new block from others
+2020-12-08 22:38:47 Started mining for new block with waiting time 50.127107602195466
+2020-12-08 22:38:47 Broadcasting a block with hash 0x6059 to all the peers
+2020-12-08 22:38:47 validated the received block with hash 0x6059 and broadcasting
+2020-12-08 22:38:47 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:38:47 Stopped mining as received a new block from others
+2020-12-08 22:38:47 Started mining for new block with waiting time 10.4161975779523
+2020-12-08 22:38:47 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:38:47 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:38:47 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:38:47 Stopped mining as received a new block from others
+2020-12-08 22:38:47 Started mining for new block with waiting time 10.858101066060023
+2020-12-08 22:38:53 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:38:53 Stopped mining as received a new block from others
+2020-12-08 22:38:53 Started mining for new block with waiting time 37.86846480205507
+2020-12-08 22:38:53 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:38:53 Stopped mining as received a new block from others
+2020-12-08 22:38:53 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:38:53 Started mining for new block with waiting time 1.8867668906570843
+2020-12-08 22:38:53 Stopped mining as received a new block from others
+2020-12-08 22:38:53 Started mining for new block with waiting time 41.79010219420218
+2020-12-08 22:38:53 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:38:53 Broadcasting a block with hash 0xc74f to all the peers
+2020-12-08 22:38:53 validated the received block with hash 0xc74f and broadcasting
+2020-12-08 22:38:53 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:38:53 Broadcasting a block with hash 0x66e7 to all the peers
+2020-12-08 22:38:53 validated the received block with hash 0x66e7 and broadcasting
+2020-12-08 22:38:53 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:38:53 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:38:53 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:38:53 Stopped mining as received a new block from others
+2020-12-08 22:38:53 Started mining for new block with waiting time 41.08918420047176
+2020-12-08 22:38:53 Stopped mining as received a new block from others
+2020-12-08 22:38:53 Started mining for new block with waiting time 9.518349767035078
+2020-12-08 22:38:53 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:38:53 Stopped mining as received a new block from others
+2020-12-08 22:38:53 Started mining for new block with waiting time 8.78331682270018
+2020-12-08 22:38:54 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:38:54 Stopped mining as received a new block from others
+2020-12-08 22:38:54 Started mining for new block with waiting time 8.098279053265948
+2020-12-08 22:39:02 Mining completed and broadcasting mined block with hash 0xec09
+2020-12-08 22:39:02 Broadcasting a block with hash 0xec09 to all the peers
+2020-12-08 22:39:02 Started mining for new block with waiting time 12.934517388256495
+2020-12-08 22:39:02 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:39:02 Stopped mining as received a new block from others
+2020-12-08 22:39:02 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:39:02 Started mining for new block with waiting time 27.93337949683319
+2020-12-08 22:39:02 Stopped mining as received a new block from others
+2020-12-08 22:39:02 Started mining for new block with waiting time 0.018156923676415665
+2020-12-08 22:39:02 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:39:02 Stopped mining as received a new block from others
+2020-12-08 22:39:02 Started mining for new block with waiting time 32.404075116445156
+2020-12-08 22:39:02 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:39:02 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:39:02 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:39:02 Broadcasting a block with hash 0xb0b3 to all the peers
+2020-12-08 22:39:02 validated the received block with hash 0xb0b3 and broadcasting
+2020-12-08 22:39:02 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:39:02 Stopped mining as received a new block from others
+2020-12-08 22:39:02 Started mining for new block with waiting time 6.964223243563447
+2020-12-08 22:39:02 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:39:02 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:39:02 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:39:02 Stopped mining as received a new block from others
+2020-12-08 22:39:02 Started mining for new block with waiting time 40.5270652981281
+2020-12-08 22:39:02 Stopped mining as received a new block from others
+2020-12-08 22:39:02 Started mining for new block with waiting time 30.376432904355088
+2020-12-08 22:39:03 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:39:03 Stopped mining as received a new block from others
+2020-12-08 22:39:03 Started mining for new block with waiting time 72.28892916185173
+2020-12-08 22:39:03 Broadcasting a block with hash 0xa851 to all the peers
+2020-12-08 22:39:03 validated the received block with hash 0xa851 and broadcasting
+2020-12-08 22:39:03 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:39:03 Stopped mining as received a new block from others
+2020-12-08 22:39:03 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:39:03 Started mining for new block with waiting time 26.79598121093752
+2020-12-08 22:39:04 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:39:04 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:39:04 Stopped mining as received a new block from others
+2020-12-08 22:39:04 Started mining for new block with waiting time 53.82332969437607
+2020-12-08 22:39:04 Stopped mining as received a new block from others
+2020-12-08 22:39:04 Started mining for new block with waiting time 43.336425615982435
+2020-12-08 22:39:11 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:39:12 Stopped mining as received a new block from others
+2020-12-08 22:39:12 Started mining for new block with waiting time 44.75792092756204
+2020-12-08 22:39:12 Broadcasting a block with hash 0xd8d2 to all the peers
+2020-12-08 22:39:12 validated the received block with hash 0xd8d2 and broadcasting
+2020-12-08 22:39:12 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:39:12 Stopped mining as received a new block from others
+2020-12-08 22:39:12 Started mining for new block with waiting time 10.067957090016106
+2020-12-08 22:39:12 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:39:12 Stopped mining as received a new block from others
+2020-12-08 22:39:12 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:39:12 Started mining for new block with waiting time 51.90166162312866
+2020-12-08 22:39:12 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:39:12 Stopped mining as received a new block from others
+2020-12-08 22:39:12 Started mining for new block with waiting time 2.332151735673183
+2020-12-08 22:39:12 Stopped mining as received a new block from others
+2020-12-08 22:39:12 Started mining for new block with waiting time 16.1893175423841
+2020-12-08 22:39:14 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:39:14 Stopped mining as received a new block from others
+2020-12-08 22:39:14 Started mining for new block with waiting time 35.07008936087828
+2020-12-08 22:39:14 Broadcasting a block with hash 0x1486 to all the peers
+2020-12-08 22:39:14 validated the received block with hash 0x1486 and broadcasting
+2020-12-08 22:39:14 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:39:14 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:39:14 Stopped mining as received a new block from others
+2020-12-08 22:39:14 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:39:14 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:39:14 Started mining for new block with waiting time 5.53906054845856
+2020-12-08 22:39:14 Stopped mining as received a new block from others
+2020-12-08 22:39:14 Started mining for new block with waiting time 37.04759354112349
+2020-12-08 22:39:16 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:39:16 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:39:16 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:39:16 Stopped mining as received a new block from others
+2020-12-08 22:39:16 Started mining for new block with waiting time 10.393122385548082
+2020-12-08 22:39:16 Stopped mining as received a new block from others
+2020-12-08 22:39:16 Started mining for new block with waiting time 11.782677567194042
+2020-12-08 22:39:16 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:39:16 Stopped mining as received a new block from others
+2020-12-08 22:39:16 Started mining for new block with waiting time 15.581583701903604
+2020-12-08 22:39:16 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:39:16 Broadcasting a block with hash 0x0282 to all the peers
+2020-12-08 22:39:16 validated the received block with hash 0x0282 and broadcasting
+2020-12-08 22:39:16 Stopped mining as received a new block from others
+2020-12-08 22:39:16 Started mining for new block with waiting time 10.254653171804138
+2020-12-08 22:39:19 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:39:19 Stopped mining as received a new block from others
+2020-12-08 22:39:19 Started mining for new block with waiting time 1.7570464091653375
+2020-12-08 22:39:19 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:39:20 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:39:20 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:39:20 Stopped mining as received a new block from others
+2020-12-08 22:39:20 Started mining for new block with waiting time 95.0813369833478
+2020-12-08 22:39:20 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:39:20 Broadcasting a block with hash 0xc0b0 to all the peers
+2020-12-08 22:39:20 validated the received block with hash 0xc0b0 and broadcasting
+2020-12-08 22:39:20 Stopped mining as received a new block from others
+2020-12-08 22:39:20 Started mining for new block with waiting time 1.4716924808151446
+2020-12-08 22:39:21 Mining completed and broadcasting mined block with hash 0xbf7c
+2020-12-08 22:39:21 Broadcasting a block with hash 0xbf7c to all the peers
+2020-12-08 22:39:21 Started mining for new block with waiting time 132.08655127397213
+2020-12-08 22:39:22 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:39:22 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:39:22 Stopped mining as received a new block from others
+2020-12-08 22:39:22 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:39:22 Started mining for new block with waiting time 63.03249326983057
+2020-12-08 22:39:22 Stopped mining as received a new block from others
+2020-12-08 22:39:22 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:39:22 Started mining for new block with waiting time 12.603698755763235
+2020-12-08 22:39:22 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:39:22 Stopped mining as received a new block from others
+2020-12-08 22:39:22 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:39:22 Started mining for new block with waiting time 15.958433456127207
+2020-12-08 22:39:22 Stopped mining as received a new block from others
+2020-12-08 22:39:22 Started mining for new block with waiting time 39.17787117415851
+2020-12-08 22:39:22 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:39:22 Stopped mining as received a new block from others
+2020-12-08 22:39:22 Started mining for new block with waiting time 59.60943647644987
+2020-12-08 22:39:22 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:39:22 Stopped mining as received a new block from others
+2020-12-08 22:39:22 Started mining for new block with waiting time 38.44302153499857
+2020-12-08 22:39:22 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:39:22 Broadcasting a block with hash 0x12ea to all the peers
+2020-12-08 22:39:22 validated the received block with hash 0x12ea and broadcasting
+2020-12-08 22:39:22 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:39:22 Stopped mining as received a new block from others
+2020-12-08 22:39:22 Started mining for new block with waiting time 16.920363842265214
+2020-12-08 22:39:32 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:39:32 Stopped mining as received a new block from others
+2020-12-08 22:39:32 Started mining for new block with waiting time 30.149362926600055
+2020-12-08 22:39:33 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:39:33 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:39:33 Broadcasting a block with hash 0xb9e4 to all the peers
+2020-12-08 22:39:33 validated the received block with hash 0xb9e4 and broadcasting
+2020-12-08 22:39:33 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:39:33 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:39:33 Stopped mining as received a new block from others
+2020-12-08 22:39:33 Started mining for new block with waiting time 26.3082979333048
+2020-12-08 22:39:33 Stopped mining as received a new block from others
+2020-12-08 22:39:33 Started mining for new block with waiting time 30.008945040990803
+2020-12-08 22:39:37 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:39:37 Stopped mining as received a new block from others
+2020-12-08 22:39:37 Started mining for new block with waiting time 27.560970360815126
+2020-12-08 22:39:37 Broadcasting a block with hash 0x9e95 to all the peers
+2020-12-08 22:39:37 validated the received block with hash 0x9e95 and broadcasting
+2020-12-08 22:39:37 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:39:37 Stopped mining as received a new block from others
+2020-12-08 22:39:37 Started mining for new block with waiting time 1.8593208206473741
+2020-12-08 22:39:38 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:39:38 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:39:38 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:39:38 Stopped mining as received a new block from others
+2020-12-08 22:39:38 Started mining for new block with waiting time 23.79903641988315
+2020-12-08 22:39:38 Stopped mining as received a new block from others
+2020-12-08 22:39:38 Started mining for new block with waiting time 16.215741499466002
+2020-12-08 22:39:43 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:39:43 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:39:43 Stopped mining as received a new block from others
+2020-12-08 22:39:43 Started mining for new block with waiting time 72.21276798315677
+2020-12-08 22:39:43 Stopped mining as received a new block from others
+2020-12-08 22:39:43 Started mining for new block with waiting time 8.947311013712902
+2020-12-08 22:39:43 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:39:43 Stopped mining as received a new block from others
+2020-12-08 22:39:43 Started mining for new block with waiting time 57.65418229225107
+2020-12-08 22:39:43 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:39:43 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:39:43 Broadcasting a block with hash 0xc6de to all the peers
+2020-12-08 22:39:43 validated the received block with hash 0xc6de and broadcasting
+2020-12-08 22:39:44 Stopped mining as received a new block from others
+2020-12-08 22:39:44 Started mining for new block with waiting time 7.01199663831697
+2020-12-08 22:39:48 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:39:48 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:39:48 Stopped mining as received a new block from others
+2020-12-08 22:39:48 Started mining for new block with waiting time 22.82112603028559
+2020-12-08 22:39:48 Stopped mining as received a new block from others
+2020-12-08 22:39:48 Started mining for new block with waiting time 12.30972572606822
+2020-12-08 22:39:48 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:39:48 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:39:48 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:39:48 Stopped mining as received a new block from others
+2020-12-08 22:39:48 Started mining for new block with waiting time 0.8622935716808781
+2020-12-08 22:39:48 Broadcasting a block with hash 0x254f to all the peers
+2020-12-08 22:39:48 validated the received block with hash 0x254f and broadcasting
+2020-12-08 22:39:49 Mining completed and broadcasting mined block with hash 0x08e3
+2020-12-08 22:39:50 Broadcasting a block with hash 0x08e3 to all the peers
+2020-12-08 22:39:50 Started mining for new block with waiting time 57.76573952155799
+2020-12-08 22:39:50 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:39:50 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:39:50 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:39:50 Stopped mining as received a new block from others
+2020-12-08 22:39:50 Started mining for new block with waiting time 25.117121232725435
+2020-12-08 22:39:50 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:39:50 Stopped mining as received a new block from others
+2020-12-08 22:39:50 Started mining for new block with waiting time 11.04412005942948
+2020-12-08 22:39:50 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:39:50 Stopped mining as received a new block from others
+2020-12-08 22:39:50 Started mining for new block with waiting time 34.43863679634559
+2020-12-08 22:39:54 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:39:54 Stopped mining as received a new block from others
+2020-12-08 22:39:54 Started mining for new block with waiting time 42.03213587988546
+2020-12-08 22:39:54 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:39:54 Stopped mining as received a new block from others
+2020-12-08 22:39:54 Started mining for new block with waiting time 36.59201398142005
+2020-12-08 22:39:54 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:39:54 Stopped mining as received a new block from others
+2020-12-08 22:39:54 Started mining for new block with waiting time 70.77328709954894
+2020-12-08 22:39:54 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:39:54 Stopped mining as received a new block from others
+2020-12-08 22:39:54 Started mining for new block with waiting time 10.026970491703677
+2020-12-08 22:39:55 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:39:55 Stopped mining as received a new block from others
+2020-12-08 22:39:55 Started mining for new block with waiting time 0.25158549595825247
+2020-12-08 22:39:55 Broadcasting a block with hash 0x838e to all the peers
+2020-12-08 22:39:55 validated the received block with hash 0x838e and broadcasting
+2020-12-08 22:39:55 Mining completed and broadcasting mined block with hash 0xe89f
+2020-12-08 22:39:55 Broadcasting a block with hash 0xe89f to all the peers
+2020-12-08 22:39:55 Started mining for new block with waiting time 5.925700211793592
+2020-12-08 22:39:55 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:39:55 Stopped mining as received a new block from others
+2020-12-08 22:39:55 Started mining for new block with waiting time 30.35930499723297
+2020-12-08 22:39:56 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:39:56 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:39:56 Stopped mining as received a new block from others
+2020-12-08 22:39:56 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:39:56 Started mining for new block with waiting time 51.078250400612646
+2020-12-08 22:39:56 Stopped mining as received a new block from others
+2020-12-08 22:39:56 Started mining for new block with waiting time 39.406874521712545
+2020-12-08 22:39:56 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:39:56 Stopped mining as received a new block from others
+2020-12-08 22:39:56 Started mining for new block with waiting time 38.146093158404454
+2020-12-08 22:39:59 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:39:59 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:39:59 Stopped mining as received a new block from others
+2020-12-08 22:39:59 Started mining for new block with waiting time 19.282810380388504
+2020-12-08 22:39:59 Stopped mining as received a new block from others
+2020-12-08 22:39:59 Started mining for new block with waiting time 31.12323691467876
+2020-12-08 22:40:00 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:40:00 Stopped mining as received a new block from others
+2020-12-08 22:40:00 Started mining for new block with waiting time 6.592251780560173
+2020-12-08 22:40:00 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:40:00 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:40:00 Broadcasting a block with hash 0x62dc to all the peers
+2020-12-08 22:40:00 validated the received block with hash 0x62dc and broadcasting
+2020-12-08 22:40:00 Stopped mining as received a new block from others
+2020-12-08 22:40:00 Started mining for new block with waiting time 36.53590253910223
+2020-12-08 22:40:00 Stopped mining as received a new block from others
+2020-12-08 22:40:00 Started mining for new block with waiting time 29.106233552302808
+2020-12-08 22:40:00 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:40:00 Stopped mining as received a new block from others
+2020-12-08 22:40:00 Started mining for new block with waiting time 3.6856033438914135
+2020-12-08 22:40:01 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:40:01 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:40:01 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:40:01 Stopped mining as received a new block from others
+2020-12-08 22:40:01 Started mining for new block with waiting time 58.175603615989445
+2020-12-08 22:40:01 Broadcasting a block with hash 0x142e to all the peers
+2020-12-08 22:40:01 validated the received block with hash 0x142e and broadcasting
+2020-12-08 22:40:01 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:40:01 Stopped mining as received a new block from others
+2020-12-08 22:40:01 Started mining for new block with waiting time 9.643447032052828
+2020-12-08 22:40:11 Mining completed and broadcasting mined block with hash 0xa3c3
+2020-12-08 22:40:11 Broadcasting a block with hash 0xa3c3 to all the peers
+2020-12-08 22:40:11 Started mining for new block with waiting time 32.88351217464749
+2020-12-08 22:40:11 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:40:11 Stopped mining as received a new block from others
+2020-12-08 22:40:11 Started mining for new block with waiting time 8.901235658607096
+2020-12-08 22:40:12 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:40:12 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:40:12 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:40:12 Stopped mining as received a new block from others
+2020-12-08 22:40:12 Started mining for new block with waiting time 7.7132451538721
+2020-12-08 22:40:12 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:40:12 Stopped mining as received a new block from others
+2020-12-08 22:40:12 Started mining for new block with waiting time 95.80086713754021
+2020-12-08 22:40:27 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:40:27 Stopped mining as received a new block from others
+2020-12-08 22:40:27 Started mining for new block with waiting time 46.71936358054934
+2020-12-08 22:40:28 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:40:28 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:40:28 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:40:28 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:40:28 Broadcasting a block with hash 0x5266 to all the peers
+2020-12-08 22:40:28 validated the received block with hash 0x5266 and broadcasting
+2020-12-08 22:40:28 Stopped mining as received a new block from others
+2020-12-08 22:40:28 Started mining for new block with waiting time 1.9344211868391654
+2020-12-08 22:40:30 Mining completed and broadcasting mined block with hash 0x2dc9
+2020-12-08 22:40:30 Broadcasting a block with hash 0x2dc9 to all the peers
+2020-12-08 22:40:30 Started mining for new block with waiting time 33.71926672310009
+2020-12-08 22:40:30 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:40:30 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:40:30 Stopped mining as received a new block from others
+2020-12-08 22:40:30 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:40:30 Started mining for new block with waiting time 16.165869512812662
+2020-12-08 22:40:30 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:40:30 Stopped mining as received a new block from others
+2020-12-08 22:40:30 Started mining for new block with waiting time 36.80883369756282
+2020-12-08 22:40:30 Stopped mining as received a new block from others
+2020-12-08 22:40:30 Started mining for new block with waiting time 14.780187074474135
+2020-12-08 22:40:31 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:40:31 Stopped mining as received a new block from others
+2020-12-08 22:40:31 Started mining for new block with waiting time 52.55805302678718
+2020-12-08 22:40:32 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:40:32 Stopped mining as received a new block from others
+2020-12-08 22:40:32 Started mining for new block with waiting time 7.818279505236604
+2020-12-08 22:40:32 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:40:33 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:40:33 Broadcasting a block with hash 0xf6b3 to all the peers
+2020-12-08 22:40:33 validated the received block with hash 0xf6b3 and broadcasting
+2020-12-08 22:40:33 Stopped mining as received a new block from others
+2020-12-08 22:40:33 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:40:33 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:40:33 Started mining for new block with waiting time 19.88468804319486
+2020-12-08 22:40:33 Stopped mining as received a new block from others
+2020-12-08 22:40:33 Started mining for new block with waiting time 19.64480798143597
+2020-12-08 22:40:33 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:40:33 Stopped mining as received a new block from others
+2020-12-08 22:40:33 Started mining for new block with waiting time 13.36213007585861
+2020-12-08 22:40:33 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:40:33 Stopped mining as received a new block from others
+2020-12-08 22:40:33 Started mining for new block with waiting time 27.608492162591652
+2020-12-08 22:40:34 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:40:34 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:40:34 Broadcasting a block with hash 0x18fc to all the peers
+2020-12-08 22:40:34 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:40:34 validated the received block with hash 0x18fc and broadcasting
+2020-12-08 22:40:34 Stopped mining as received a new block from others
+2020-12-08 22:40:34 Started mining for new block with waiting time 73.85201346481145
+2020-12-08 22:40:34 Stopped mining as received a new block from others
+2020-12-08 22:40:34 Started mining for new block with waiting time 34.49428342044699
+2020-12-08 22:40:34 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:40:34 Stopped mining as received a new block from others
+2020-12-08 22:40:35 Started mining for new block with waiting time 12.760281838634826
+2020-12-08 22:40:35 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:40:35 Stopped mining as received a new block from others
+2020-12-08 22:40:35 Started mining for new block with waiting time 27.415188455884135
+2020-12-08 22:40:35 Broadcasting a block with hash 0x96bd to all the peers
+2020-12-08 22:40:35 validated the received block with hash 0x96bd and broadcasting
+2020-12-08 22:40:35 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:40:35 Stopped mining as received a new block from others
+2020-12-08 22:40:35 Started mining for new block with waiting time 40.16866270396373
+2020-12-08 22:40:35 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:40:35 Stopped mining as received a new block from others
+2020-12-08 22:40:35 Started mining for new block with waiting time 57.93680089739537
+2020-12-08 22:40:35 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:40:35 Stopped mining as received a new block from others
+2020-12-08 22:40:35 Started mining for new block with waiting time 80.68926436968684
+2020-12-08 22:40:37 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:40:37 Stopped mining as received a new block from others
+2020-12-08 22:40:37 Started mining for new block with waiting time 0.7149151131013589
+2020-12-08 22:40:37 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:40:37 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:40:37 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:40:37 Stopped mining as received a new block from others
+2020-12-08 22:40:37 Started mining for new block with waiting time 10.078802910583274
+2020-12-08 22:40:37 Broadcasting a block with hash 0xd2c4 to all the peers
+2020-12-08 22:40:37 validated the received block with hash 0xd2c4 and broadcasting
+2020-12-08 22:40:37 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:40:37 Stopped mining as received a new block from others
+2020-12-08 22:40:37 Started mining for new block with waiting time 10.437850042527232
+2020-12-08 22:40:38 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:40:38 Stopped mining as received a new block from others
+2020-12-08 22:40:38 Started mining for new block with waiting time 11.883009434708587
+2020-12-08 22:40:38 Broadcasting a block with hash 0x502f to all the peers
+2020-12-08 22:40:38 validated the received block with hash 0x502f and broadcasting
+2020-12-08 22:40:38 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:40:38 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:40:38 Stopped mining as received a new block from others
+2020-12-08 22:40:38 Started mining for new block with waiting time 67.15840345953063
+2020-12-08 22:40:38 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:40:38 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:40:38 Stopped mining as received a new block from others
+2020-12-08 22:40:38 Started mining for new block with waiting time 39.17685959427965
+2020-12-08 22:40:39 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:40:39 Stopped mining as received a new block from others
+2020-12-08 22:40:39 Started mining for new block with waiting time 11.626114189756242
+2020-12-08 22:40:39 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:40:39 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:40:39 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:40:39 Broadcasting a block with hash 0x234d to all the peers
+2020-12-08 22:40:39 validated the received block with hash 0x234d and broadcasting
+2020-12-08 22:40:39 Stopped mining as received a new block from others
+2020-12-08 22:40:39 Started mining for new block with waiting time 65.27845743944766
+2020-12-08 22:40:40 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:40:40 Stopped mining as received a new block from others
+2020-12-08 22:40:40 Started mining for new block with waiting time 53.72186333749732
+2020-12-08 22:40:40 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:40:40 Stopped mining as received a new block from others
+2020-12-08 22:40:40 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:40:40 Broadcasting a block with hash 0xb58c to all the peers
+2020-12-08 22:40:40 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:40:40 Started mining for new block with waiting time 58.3015582565901
+2020-12-08 22:40:41 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:40:41 validated the received block with hash 0xb58c and broadcasting
+2020-12-08 22:40:41 Stopped mining as received a new block from others
+2020-12-08 22:40:41 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:40:41 Started mining for new block with waiting time 37.13661038988393
+2020-12-08 22:40:41 Stopped mining as received a new block from others
+2020-12-08 22:40:41 Started mining for new block with waiting time 2.9687418651199717
+2020-12-08 22:40:44 Mining completed and broadcasting mined block with hash 0x1c61
+2020-12-08 22:40:44 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:40:44 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:40:44 Broadcasting a block with hash 0x1c61 to all the peers
+2020-12-08 22:40:44 Started mining for new block with waiting time 31.625163420036056
+2020-12-08 22:40:44 Stopped mining as received a new block from others
+2020-12-08 22:40:44 Started mining for new block with waiting time 21.513308619651145
+2020-12-08 22:40:44 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:40:44 Broadcasting a block with hash 0x1a16 to all the peers
+2020-12-08 22:40:44 validated the received block with hash 0x1a16 and broadcasting
+2020-12-08 22:40:44 Stopped mining as received a new block from others
+2020-12-08 22:40:44 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:40:44 Started mining for new block with waiting time 46.257239982442535
+2020-12-08 22:40:44 Stopped mining as received a new block from others
+2020-12-08 22:40:44 Started mining for new block with waiting time 7.25489917847174
+2020-12-08 22:40:44 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:40:44 Stopped mining as received a new block from others
+2020-12-08 22:40:44 Started mining for new block with waiting time 26.782026254522233
+2020-12-08 22:40:45 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:40:45 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:40:45 Stopped mining as received a new block from others
+2020-12-08 22:40:45 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:40:45 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:40:45 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:40:45 Started mining for new block with waiting time 48.344858840041766
+2020-12-08 22:40:45 Stopped mining as received a new block from others
+2020-12-08 22:40:45 Started mining for new block with waiting time 12.247379804400577
+2020-12-08 22:40:46 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:40:47 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:40:47 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:40:47 Stopped mining as received a new block from others
+2020-12-08 22:40:47 Started mining for new block with waiting time 4.297967614446228
+2020-12-08 22:40:47 Broadcasting a block with hash 0xbd8b to all the peers
+2020-12-08 22:40:47 validated the received block with hash 0xbd8b and broadcasting
+2020-12-08 22:40:47 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:40:47 Stopped mining as received a new block from others
+2020-12-08 22:40:47 Started mining for new block with waiting time 41.019914342863366
+2020-12-08 22:40:47 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:40:47 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:40:47 Stopped mining as received a new block from others
+2020-12-08 22:40:47 Started mining for new block with waiting time 27.346377039065665
+2020-12-08 22:40:47 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:40:47 Stopped mining as received a new block from others
+2020-12-08 22:40:47 Started mining for new block with waiting time 71.093061632455
+2020-12-08 22:40:47 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:40:47 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:40:47 Stopped mining as received a new block from others
+2020-12-08 22:40:47 Started mining for new block with waiting time 47.29495770357281
+2020-12-08 22:40:47 Broadcasting a block with hash 0x50b5 to all the peers
+2020-12-08 22:40:47 validated the received block with hash 0x50b5 and broadcasting
+2020-12-08 22:40:48 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:40:48 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:40:48 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:40:48 Stopped mining as received a new block from others
+2020-12-08 22:40:48 Started mining for new block with waiting time 9.313243676425753
+2020-12-08 22:40:48 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:40:48 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:40:48 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:40:48 Stopped mining as received a new block from others
+2020-12-08 22:40:48 Started mining for new block with waiting time 12.106170176182607
+2020-12-08 22:40:48 Broadcasting a block with hash 0x13aa to all the peers
+2020-12-08 22:40:49 validated the received block with hash 0x13aa and broadcasting
+2020-12-08 22:40:51 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:40:51 Stopped mining as received a new block from others
+2020-12-08 22:40:51 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:40:51 Started mining for new block with waiting time 18.140535588170476
+2020-12-08 22:40:51 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:40:51 Stopped mining as received a new block from others
+2020-12-08 22:40:51 Started mining for new block with waiting time 5.522958548675842
+2020-12-08 22:40:51 Stopped mining as received a new block from others
+2020-12-08 22:40:51 Started mining for new block with waiting time 16.426746693977982
+2020-12-08 22:40:52 Broadcasting a block with hash 0xbdfb to all the peers
+2020-12-08 22:40:52 validated the received block with hash 0xbdfb and broadcasting
+2020-12-08 22:40:52 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:40:52 Stopped mining as received a new block from others
+2020-12-08 22:40:52 Started mining for new block with waiting time 64.5906896404569
+2020-12-08 22:40:52 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:40:52 Stopped mining as received a new block from others
+2020-12-08 22:40:52 Started mining for new block with waiting time 13.111117243718212
+2020-12-08 22:41:05 Mining completed and broadcasting mined block with hash 0xc81e
+2020-12-08 22:41:05 Broadcasting a block with hash 0xc81e to all the peers
+2020-12-08 22:41:05 Started mining for new block with waiting time 28.347264599781013
+2020-12-08 22:41:06 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:41:06 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:41:06 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:41:06 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:41:06 Stopped mining as received a new block from others
+2020-12-08 22:41:06 Started mining for new block with waiting time 2.4570545759259272
+2020-12-08 22:41:06 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:41:06 Stopped mining as received a new block from others
+2020-12-08 22:41:06 Started mining for new block with waiting time 1.4338671944368648
+2020-12-08 22:41:07 Mining completed and broadcasting mined block with hash 0xb36a
+2020-12-08 22:41:08 Broadcasting a block with hash 0xb36a to all the peers
+2020-12-08 22:41:08 Started mining for new block with waiting time 41.24283021626646
+2020-12-08 22:41:08 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:41:08 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:41:08 Stopped mining as received a new block from others
+2020-12-08 22:41:08 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:41:08 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:41:08 Started mining for new block with waiting time 4.0544119984825775
+2020-12-08 22:41:09 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:41:09 Stopped mining as received a new block from others
+2020-12-08 22:41:09 Started mining for new block with waiting time 25.572381229871976
+2020-12-08 22:41:09 Stopped mining as received a new block from others
+2020-12-08 22:41:09 Started mining for new block with waiting time 57.11507761827675
+2020-12-08 22:41:17 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:41:17 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:41:17 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:41:17 Stopped mining as received a new block from others
+2020-12-08 22:41:17 Started mining for new block with waiting time 21.73273354745195
+2020-12-08 22:41:17 Broadcasting a block with hash 0x605c to all the peers
+2020-12-08 22:41:17 validated the received block with hash 0x605c and broadcasting
+2020-12-08 22:41:17 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:41:17 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:41:17 Stopped mining as received a new block from others
+2020-12-08 22:41:17 Started mining for new block with waiting time 50.471957737169824
+2020-12-08 22:41:26 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:41:26 Stopped mining as received a new block from others
+2020-12-08 22:41:26 Started mining for new block with waiting time 29.72885342496924
+2020-12-08 22:41:27 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:41:27 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:41:27 Stopped mining as received a new block from others
+2020-12-08 22:41:27 Started mining for new block with waiting time 12.225882454273863
+2020-12-08 22:41:27 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:41:27 Stopped mining as received a new block from others
+2020-12-08 22:41:27 Broadcasting a block with hash 0x0834 to all the peers
+2020-12-08 22:41:27 validated the received block with hash 0x0834 and broadcasting
+2020-12-08 22:41:27 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:41:27 Started mining for new block with waiting time 8.162366944299736
+2020-12-08 22:41:27 Stopped mining as received a new block from others
+2020-12-08 22:41:27 Started mining for new block with waiting time 112.94950141681605
+2020-12-08 22:41:28 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:41:28 Stopped mining as received a new block from others
+2020-12-08 22:41:28 Started mining for new block with waiting time 18.762215354957444
+2020-12-08 22:41:28 Broadcasting a block with hash 0x38ad to all the peers
+2020-12-08 22:41:28 validated the received block with hash 0x38ad and broadcasting
+2020-12-08 22:41:28 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:41:28 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:41:28 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:41:28 Stopped mining as received a new block from others
+2020-12-08 22:41:28 Started mining for new block with waiting time 32.19969732295191
+2020-12-08 22:41:28 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:41:28 Stopped mining as received a new block from others
+2020-12-08 22:41:28 Started mining for new block with waiting time 6.324562887899203
+2020-12-08 22:41:29 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:41:29 Stopped mining as received a new block from others
+2020-12-08 22:41:29 Started mining for new block with waiting time 2.5953838267052003
+2020-12-08 22:41:29 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:41:29 Stopped mining as received a new block from others
+2020-12-08 22:41:29 Started mining for new block with waiting time 0.6222393497958022
+2020-12-08 22:41:29 Broadcasting a block with hash 0xf7ab to all the peers
+2020-12-08 22:41:29 validated the received block with hash 0xf7ab and broadcasting
+2020-12-08 22:41:29 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:41:29 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:41:30 Stopped mining as received a new block from others
+2020-12-08 22:41:30 Started mining for new block with waiting time 25.415173036007292
+2020-12-08 22:41:30 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:41:30 Stopped mining as received a new block from others
+2020-12-08 22:41:30 Started mining for new block with waiting time 57.857962510702954
+2020-12-08 22:41:31 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:41:31 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:41:31 Stopped mining as received a new block from others
+2020-12-08 22:41:31 Started mining for new block with waiting time 8.818781868355636
+2020-12-08 22:41:31 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:41:31 Broadcasting a block with hash 0xb0f7 to all the peers
+2020-12-08 22:41:31 validated the received block with hash 0xb0f7 and broadcasting
+2020-12-08 22:41:31 Stopped mining as received a new block from others
+2020-12-08 22:41:31 Started mining for new block with waiting time 9.202091689424671
+2020-12-08 22:41:32 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:41:32 Stopped mining as received a new block from others
+2020-12-08 22:41:32 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:41:32 Started mining for new block with waiting time 12.403881136552057
+2020-12-08 22:41:32 Stopped mining as received a new block from others
+2020-12-08 22:41:32 Started mining for new block with waiting time 48.92479488579844
+2020-12-08 22:41:36 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:41:36 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:41:36 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:41:36 Broadcasting a block with hash 0x9cf9 to all the peers
+2020-12-08 22:41:36 validated the received block with hash 0x9cf9 and broadcasting
+2020-12-08 22:41:36 Stopped mining as received a new block from others
+2020-12-08 22:41:36 Started mining for new block with waiting time 23.846999327891268
+2020-12-08 22:41:36 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:41:36 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:41:36 Stopped mining as received a new block from others
+2020-12-08 22:41:36 Started mining for new block with waiting time 40.19594300711804
+2020-12-08 22:41:37 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:41:37 Stopped mining as received a new block from others
+2020-12-08 22:41:37 Started mining for new block with waiting time 30.342866565187897
+2020-12-08 22:41:37 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:41:37 Stopped mining as received a new block from others
+2020-12-08 22:41:37 Started mining for new block with waiting time 57.07301612203889
+2020-12-08 22:41:37 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:41:37 Broadcasting a block with hash 0x1d1b to all the peers
+2020-12-08 22:41:37 validated the received block with hash 0x1d1b and broadcasting
+2020-12-08 22:41:37 Stopped mining as received a new block from others
+2020-12-08 22:41:37 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:41:37 Started mining for new block with waiting time 165.73918224125669
+2020-12-08 22:41:37 Stopped mining as received a new block from others
+2020-12-08 22:41:37 Started mining for new block with waiting time 37.06008304616937
+2020-12-08 22:41:38 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:41:38 Stopped mining as received a new block from others
+2020-12-08 22:41:38 Started mining for new block with waiting time 1.69546054066577
+2020-12-08 22:41:39 Mining completed and broadcasting mined block with hash 0x17a8
+2020-12-08 22:41:39 Broadcasting a block with hash 0x17a8 to all the peers
+2020-12-08 22:41:39 Started mining for new block with waiting time 58.00147535280781
+2020-12-08 22:41:40 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:41:40 Stopped mining as received a new block from others
+2020-12-08 22:41:40 Started mining for new block with waiting time 43.607875931678
+2020-12-08 22:41:40 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:41:40 Stopped mining as received a new block from others
+2020-12-08 22:41:40 Started mining for new block with waiting time 25.725953638964274
+2020-12-08 22:41:40 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:41:40 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:41:40 Stopped mining as received a new block from others
+2020-12-08 22:41:40 Started mining for new block with waiting time 2.1012190825835524
+2020-12-08 22:41:40 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:41:40 Stopped mining as received a new block from others
+2020-12-08 22:41:40 Started mining for new block with waiting time 33.16879862763827
+2020-12-08 22:41:43 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:41:43 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:41:44 Stopped mining as received a new block from others
+2020-12-08 22:41:44 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:41:44 Started mining for new block with waiting time 47.30782365851112
+2020-12-08 22:41:44 Stopped mining as received a new block from others
+2020-12-08 22:41:44 Started mining for new block with waiting time 0.8867281107422038
+2020-12-08 22:41:44 Broadcasting a block with hash 0xfdc5 to all the peers
+2020-12-08 22:41:44 validated the received block with hash 0xfdc5 and broadcasting
+2020-12-08 22:41:44 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:41:44 Stopped mining as received a new block from others
+2020-12-08 22:41:44 Started mining for new block with waiting time 100.27233430346512
+2020-12-08 22:41:44 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:41:44 Stopped mining as received a new block from others
+2020-12-08 22:41:44 Started mining for new block with waiting time 1.4762018528796637
+2020-12-08 22:41:45 Mining completed and broadcasting mined block with hash 0x95c7
+2020-12-08 22:41:46 Broadcasting a block with hash 0x95c7 to all the peers
+2020-12-08 22:41:46 Started mining for new block with waiting time 2.3119818990880643
+2020-12-08 22:41:46 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:41:46 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:41:46 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:41:46 Stopped mining as received a new block from others
+2020-12-08 22:41:46 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:41:46 Started mining for new block with waiting time 80.92752381292456
+2020-12-08 22:41:46 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:41:46 Stopped mining as received a new block from others
+2020-12-08 22:41:46 Started mining for new block with waiting time 69.5195602939674
+2020-12-08 22:41:46 Stopped mining as received a new block from others
+2020-12-08 22:41:46 Started mining for new block with waiting time 3.09571605825227
+2020-12-08 22:41:49 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:41:49 Stopped mining as received a new block from others
+2020-12-08 22:41:49 Started mining for new block with waiting time 28.302021895536495
+2020-12-08 22:41:49 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:41:49 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:41:49 Broadcasting a block with hash 0x7b5f to all the peers
+2020-12-08 22:41:49 validated the received block with hash 0x7b5f and broadcasting
+2020-12-08 22:41:49 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:41:49 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:41:49 Stopped mining as received a new block from others
+2020-12-08 22:41:49 Started mining for new block with waiting time 11.503408665698217
+2020-12-08 22:41:51 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:41:51 Stopped mining as received a new block from others
+2020-12-08 22:41:51 Started mining for new block with waiting time 3.2748338662207654
+2020-12-08 22:41:51 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:41:51 Stopped mining as received a new block from others
+2020-12-08 22:41:51 Started mining for new block with waiting time 28.04471199154666
+2020-12-08 22:41:52 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:41:52 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:41:52 Broadcasting a block with hash 0x5236 to all the peers
+2020-12-08 22:41:52 validated the received block with hash 0x5236 and broadcasting
+2020-12-08 22:41:52 Stopped mining as received a new block from others
+2020-12-08 22:41:52 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:41:52 Started mining for new block with waiting time 34.27883919228396
+2020-12-08 22:41:52 Stopped mining as received a new block from others
+2020-12-08 22:41:52 Started mining for new block with waiting time 10.189753037940369
+2020-12-08 22:41:52 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:41:52 Stopped mining as received a new block from others
+2020-12-08 22:41:52 Started mining for new block with waiting time 6.484347681292818
+2020-12-08 22:41:52 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:41:52 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:41:52 Broadcasting a block with hash 0xaf2f to all the peers
+2020-12-08 22:41:52 validated the received block with hash 0xaf2f and broadcasting
+2020-12-08 22:41:52 Stopped mining as received a new block from others
+2020-12-08 22:41:52 Started mining for new block with waiting time 13.970343806538825
+2020-12-08 22:41:52 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:41:52 Stopped mining as received a new block from others
+2020-12-08 22:41:52 Started mining for new block with waiting time 69.7314589367009
+2020-12-08 22:41:53 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:41:53 Stopped mining as received a new block from others
+2020-12-08 22:41:53 Started mining for new block with waiting time 1.741700746650323
+2020-12-08 22:41:55 Mining completed and broadcasting mined block with hash 0xa3d1
+2020-12-08 22:41:55 Broadcasting a block with hash 0xa3d1 to all the peers
+2020-12-08 22:41:55 Started mining for new block with waiting time 30.527824241160292
+2020-12-08 22:41:55 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:41:55 Stopped mining as received a new block from others
+2020-12-08 22:41:55 Started mining for new block with waiting time 33.811193967545144
+2020-12-08 22:41:55 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:41:55 Stopped mining as received a new block from others
+2020-12-08 22:41:55 Started mining for new block with waiting time 31.1126349641844
+2020-12-08 22:41:55 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:41:55 Stopped mining as received a new block from others
+2020-12-08 22:41:55 Started mining for new block with waiting time 31.31656480602707
+2020-12-08 22:41:55 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:41:55 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:41:55 Stopped mining as received a new block from others
+2020-12-08 22:41:55 Started mining for new block with waiting time 14.480652307970862
+2020-12-08 22:41:59 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:41:59 Stopped mining as received a new block from others
+2020-12-08 22:41:59 Started mining for new block with waiting time 11.701702439713443
+2020-12-08 22:41:59 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:41:59 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:41:59 Stopped mining as received a new block from others
+2020-12-08 22:41:59 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:41:59 Started mining for new block with waiting time 19.238601161044677
+2020-12-08 22:41:59 Stopped mining as received a new block from others
+2020-12-08 22:41:59 Started mining for new block with waiting time 9.259634867901507
+2020-12-08 22:41:59 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:41:59 Stopped mining as received a new block from others
+2020-12-08 22:41:59 Started mining for new block with waiting time 27.938127277322142
+2020-12-08 22:41:59 Broadcasting a block with hash 0xb18a to all the peers
+2020-12-08 22:41:59 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:41:59 validated the received block with hash 0xb18a and broadcasting
+2020-12-08 22:41:59 Broadcasting a block with hash 0x97d1 to all the peers
+2020-12-08 22:41:59 validated the received block with hash 0x97d1 and broadcasting
+2020-12-08 22:41:59 Stopped mining as received a new block from others
+2020-12-08 22:41:59 Started mining for new block with waiting time 82.76439326050387
+2020-12-08 22:41:59 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:41:59 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:41:59 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:41:59 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:41:59 Stopped mining as received a new block from others
+2020-12-08 22:41:59 Started mining for new block with waiting time 18.518289956086676
+2020-12-08 22:42:05 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:42:05 Stopped mining as received a new block from others
+2020-12-08 22:42:05 Started mining for new block with waiting time 40.98449691036357
+2020-12-08 22:42:05 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:42:05 Stopped mining as received a new block from others
+2020-12-08 22:42:05 Started mining for new block with waiting time 1.5998539459985193
+2020-12-08 22:42:05 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:42:05 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:42:05 Broadcasting a block with hash 0xce43 to all the peers
+2020-12-08 22:42:05 validated the received block with hash 0xce43 and broadcasting
+2020-12-08 22:42:05 Stopped mining as received a new block from others
+2020-12-08 22:42:05 Started mining for new block with waiting time 5.096554953691656
+2020-12-08 22:42:05 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:42:05 Stopped mining as received a new block from others
+2020-12-08 22:42:05 Started mining for new block with waiting time 119.37683574535798
+2020-12-08 22:42:07 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:42:07 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:42:07 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:42:07 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:42:07 Stopped mining as received a new block from others
+2020-12-08 22:42:07 Started mining for new block with waiting time 52.70546780545282
+2020-12-08 22:42:07 Stopped mining as received a new block from others
+2020-12-08 22:42:07 Started mining for new block with waiting time 137.8480236660858
+2020-12-08 22:42:07 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:42:07 Stopped mining as received a new block from others
+2020-12-08 22:42:07 Started mining for new block with waiting time 59.967948796530045
+2020-12-08 22:42:07 Broadcasting a block with hash 0xff66 to all the peers
+2020-12-08 22:42:07 validated the received block with hash 0xff66 and broadcasting
+2020-12-08 22:42:08 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:42:08 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:42:08 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:42:08 Broadcasting a block with hash 0xd013 to all the peers
+2020-12-08 22:42:08 validated the received block with hash 0xd013 and broadcasting
+2020-12-08 22:42:08 Stopped mining as received a new block from others
+2020-12-08 22:42:08 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:42:08 Started mining for new block with waiting time 1.2633127062932066
+2020-12-08 22:42:08 Stopped mining as received a new block from others
+2020-12-08 22:42:08 Started mining for new block with waiting time 48.77577057757783
+2020-12-08 22:42:08 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:42:08 Stopped mining as received a new block from others
+2020-12-08 22:42:08 Started mining for new block with waiting time 10.103949937577589
+2020-12-08 22:42:10 Received a new block from ('127.0.0.1', 8006) added to queue
+2020-12-08 22:42:10 Stopped mining as received a new block from others
+2020-12-08 22:42:10 Started mining for new block with waiting time 4.282981454151273
+2020-12-08 22:42:10 Received a new block from ('127.0.0.1', 8003) added to queue
+2020-12-08 22:42:10 Received a new block from ('127.0.0.1', 8002) added to queue
+2020-12-08 22:42:10 Stopped mining as received a new block from others
+2020-12-08 22:42:10 Started mining for new block with waiting time 57.59467214208058
+2020-12-08 22:42:10 Stopped mining as received a new block from others
+2020-12-08 22:42:10 Started mining for new block with waiting time 19.048164881571896
+2020-12-08 22:42:10 Broadcasting a block with hash 0x53d7 to all the peers
+2020-12-08 22:42:10 validated the received block with hash 0x53d7 and broadcasting
+2020-12-08 22:42:10 Received a new block from ('127.0.0.1', 8001) added to queue
+2020-12-08 22:42:10 Stopped mining as received a new block from others
+2020-12-08 22:42:10 Started mining for new block with waiting time 3.0139683176382612
+2020-12-08 22:42:11 Received a new block from ('127.0.0.1', 8004) added to queue
+2020-12-08 22:42:11 Stopped mining as received a new block from others
+2020-12-08 22:42:11 Started mining for new block with waiting time 16.975623059936257
